@@ -1,0 +1,227 @@
+{
+  "date_label": "10 Kasım 2026 Salı",
+  "date": "2026-11-10",
+  "updated_at": "Asia/Famagusta ~09:25",
+  "sections": [
+    {
+      "heading": "KKTC",
+      "items": [
+        {
+          "text": "Erhürman ile Hristodulidis, BM'nin ev sahipliğindeki üçlü görüşmede Akıncılar-Limya ve Kambo-Gemikonağı geçiş noktalarının eş zamanlı açılmasında anlaştı. Açılış tarihi verilmedi, Lefkoşa'da yeni kapı yok.",
+          "source_label": "Kıbrıs Postası",
+          "url": "https://www.kibrispostasi.com/c1-KIBRIS_POSTASI_GAZETESI/j160/a43793-lefkosaya-kapi-yok-ama-ilerleme-var-hayirlisi"
+        },
+        {
+          "text": "Erhürman, uzlaşılan tüm önerilerin Kıbrıs Türk tarafının köprü kurucu paketinden çıktığını söyledi. Askeri konularda doğrudan iletişim mekanizması önerisinin ise kabul görmediğini belirtti.",
+          "source_label": "Güven Gazetesi",
+          "url": "https://www.guvengazetesi.com.tr/kktc-cumhurbaskani-erhurman-uzlasilan-tum-oneriler-bizim-paketimizden-cikti/112092/"
+        },
+        {
+          "text": "Atatürk ölümünün 88. yılında KKTC genelinde törenlerle anılıyor. Saat 09.05'te sirenler eşliğinde saygı duruşu yapıldı, bayraklar yarıya indirildi.",
+          "source_label": "Radyo Güven",
+          "url": "https://radyoguven.gov.ct.tr/Sayfa/HaberDetay/15560"
+        }
+      ]
+    },
+    {
+      "heading": "Türkiye",
+      "items": [
+        {
+          "text": "Atatürk, ebediyete intikalinin 88. yılında Anıtkabir'de devlet töreniyle anılıyor; tören 08.45'te devlet erkanının Aslanlı Yol yürüyüşüyle başladı.",
+          "source_label": "CNN Türk",
+          "url": "https://www.cnnturk.com/turkiye/live-88-yildir-ayni-aci-ayni-sevgi-devlet-erkani-anitkabirde-3491269"
+        },
+        {
+          "text": "İzmir Aliağa'daki HABAŞ demir çelik fabrikasındaki patlamada ölü sayısı 17'ye yükseldi. Başsavcılık soruşturma başlattı, olayla ilgili yayın yasağı getirildi.",
+          "source_label": "Hürriyet",
+          "url": "https://www.hurriyet.com.tr/gundem/live-izmirde-aliaga-habas-demir-celik-fabrikasinda-patlama-hayatini-kaybedenlerin-sayisi-10a-yukseldi-43371390"
+        },
+        {
+          "text": "Adalet Bakanı Gürlek, fon soruşturmasında 464 şüpheli ve 120 tutuklu olduğunu, yaklaşık 31,5 milyar TL'lik varlığın gönüllü olarak iade edildiğini açıkladı.",
+          "source_label": "Hürriyet",
+          "url": "https://www.hurriyet.com.tr/gundem/bakan-gurlekten-fon-aciklamasi-gonullu-iade-31-5-milyar-tl-43372202"
+        },
+        {
+          "text": "COP31 Antalya'da sürüyor; 11-12 Kasım'daki Liderler Zirvesi'ne şimdiye kadar 102 lider katılım bildirdi.",
+          "source_label": "gaste.co",
+          "url": "https://gaste.co/gazete"
+        }
+      ]
+    },
+    {
+      "heading": "Dünya",
+      "items": [
+        {
+          "text": "Trump, İran'a karşı yeni askeri harekâtın şu aşamada gerekli olmadığını ve savaşın askeri olarak fiilen bittiğini söyledi. Hürmüz'deki deniz ablukası şimdilik sürecek.",
+          "source_label": "The Hindu",
+          "url": "https://www.thehindu.com/news/morning-digest-on-november-10-2026/article71684764.ece"
+        },
+        {
+          "text": "Rusya, Ukrayna ve ABD heyetleri bugün ve yarın Abu Dabi'de üçlü barış görüşmesi yapıyor.",
+          "source_label": "Xinhua",
+          "url": "https://english.news.cn/20261110/eee10e4fe129421394627f7e1015fc4e/c.html"
+        },
+        {
+          "text": "Almanya Başbakanı Merz, cumhurbaşkanlığı için Ilse Aigner'i aday gösterdi; seçilirse Almanya'nın ilk kadın devlet başkanı olacak.",
+          "source_label": "Xinhua",
+          "url": "https://english.news.cn/20261110/eee10e4fe129421394627f7e1015fc4e/c.html"
+        },
+        {
+          "text": "Fransa, Ekim'de yüzlerce süpermarketin soğutucularını devre dışı bırakan siber saldırılardan İran Devrim Muhafızları'nı sorumlu tuttu ve karşılık verileceğini açıkladı.",
+          "source_label": "Reuters (Devdiscourse)",
+          "url": "https://www.devdiscourse.com/article/international/4004171-reuters-world-news-summary"
+        }
+      ]
+    },
+    {
+      "heading": "Finans",
+      "note": "BIST 100: 9 Kasım kapanışı (BloombergHT). Döviz, altın, Brent: Ahlatcı Yatırım/Hibya, 10 Kasım sabahı (~08:40). ABD vadeli: Investing.com, ~08:19 (Asia/Famagusta).",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "Değişim"
+        ],
+        "rows": [
+          [
+            "BIST 100 (9 Kas kapanış)",
+            "11.712,67",
+            "+%2,00"
+          ],
+          [
+            "USD/TRY",
+            "50,23",
+            "+%0,11"
+          ],
+          [
+            "EUR/TRY",
+            "56,40",
+            "+%0,03"
+          ],
+          [
+            "Ons altın",
+            "$4.114",
+            "-%0,66"
+          ],
+          [
+            "Gram altın",
+            "6.643 TL",
+            "-%0,58"
+          ],
+          [
+            "Brent",
+            "$91,41",
+            "-%1,53"
+          ],
+          [
+            "S&P 500 vadeli",
+            "7.590,75",
+            "+%0,2"
+          ],
+          [
+            "Dow vadeli",
+            "52.725",
+            "+%0,4"
+          ],
+          [
+            "Nasdaq 100 vadeli",
+            "28.013,75",
+            "%0,0"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "Wall Street Pazartesi sert toparlandı: S&P 500 %2,4 ile 8 Nisan'dan beri en iyi gününü yaşadı, Nasdaq %2,7 yükseldi. Nvidia ise %4,2 düştü; bugün ABD Ekim TÜFE verisi bekleniyor.",
+          "source_label": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-techled-rebound-cpi-in-focus-5013763"
+        },
+        {
+          "text": "CME FedWatch'a göre piyasalar Fed'in Aralık'ta çeyrek puan faiz artırma ihtimalini %84 fiyatlıyor. ABD'de yıllık TÜFE beklentisi %3,9; yurt içinde eylül sanayi üretimi açıklanacak.",
+          "source_label": "Hibya",
+          "url": "http://hibya.com/kuresel-piyasalarda-yukselis-altin-ve-petrolde-geri-cekilme-1087243"
+        },
+        {
+          "text": "Hükümet, Ocak 2027'de emeklilere enflasyon farkına ek olarak ortalama %15 civarında seyyanen zam ya da refah payı vermeyi değerlendiriyor; model henüz kesinleşmedi.",
+          "source_label": "gaste.co",
+          "url": "https://gaste.co/gazete"
+        }
+      ]
+    },
+    {
+      "heading": "Kripto",
+      "note": "Fiyatlar: CoinMarketCap (APA aracılığıyla), 10 Kasım ~08:00 (Asia/Famagusta), 24 saatlik değişim.",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "24s"
+        ],
+        "rows": [
+          [
+            "Bitcoin (BTC)",
+            "$74.682",
+            "+%0,39"
+          ],
+          [
+            "Ethereum (ETH)",
+            "$2.120,70",
+            "-%0,39"
+          ],
+          [
+            "BNB",
+            "$689,21",
+            "+%0,54"
+          ],
+          [
+            "Zcash (ZEC)",
+            "$1.153,04",
+            "-%5,81"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "Bitcoin 9 Kasım'da 73.708 dolarla Ağustos'tan beri en düşük seviyeyi gördükten sonra 75 bin dolar civarına toparlandı. Spot BTC ETF'lerinden 201 milyon dolar çıkış oldu, tasfiyeler 269 milyon doları aştı.",
+          "source_label": "The Crypto Times",
+          "url": "https://www.cryptotimes.io/2026/11/10/bitcoin-price-today-holds-near-75k-as-btc-etf-outflows-hit-201m-liquidations-top-269m/"
+        },
+        {
+          "text": "Kripto piyasası yön için bugün açıklanacak ABD TÜFE verisini bekliyor.",
+          "source_label": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/news/2026/11/10/bitcoin-hovers-near-75000-as-traders-await-us-cpi-data"
+        },
+        {
+          "text": "Ethereum ETF'lerinden 9 Kasım'da 184,5 milyon dolar çıkış oldu; XRP ve Solana ETF'lerinde de çıkış görüldü.",
+          "source_label": "CoinGabbar",
+          "url": "https://www.coingabbar.com/en/crypto-etf-news-today-btc-eth-xrp-sol-outflow-in-november"
+        }
+      ]
+    },
+    {
+      "heading": "Teknoloji",
+      "items": [
+        {
+          "text": "Anthropic, Claude Fable 5.2 ve Claude Mythos 5.2 modellerini duyurdu. Fable herkese açık ve %20 daha ucuz; Mythos yalnızca onaylı siber güvenlik ve yaşam bilimleri kuruluşlarına sunuluyor.",
+          "source_label": "Anthropic",
+          "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2"
+        },
+        {
+          "text": "Nvidia'da CEO Jensen Huang'ın yabancı istihbarat hedefi olup olmadığına dair soruşturma sürüyor; hisse Pazartesi %4,2 düşerek Nisan'dan beri en düşük kapanışı yaptı.",
+          "source_label": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-steady-after-techled-rebound-cpi-in-focus-5013763"
+        },
+        {
+          "text": "Meta, Instagram'daki yapay zekâ destekli yaş tahminini dünya geneline yaydı; genç olduğu tahmin edilen kullanıcılar otomatik olarak Teen Account korumalarına alınıyor.",
+          "source_label": "Meta",
+          "url": "https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/"
+        },
+        {
+          "text": "Apple, Türkiye'de beş geliştirici akademisi, bir geliştirici merkezi ve 2028'de Ankara'da bir üretim akademisi açacağını duyurdu.",
+          "source_label": "gaste.co",
+          "url": "https://gaste.co/gazete"
+        }
+      ]
+    }
+  ]
+}
