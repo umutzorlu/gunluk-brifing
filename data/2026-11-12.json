@@ -1,7 +1,7 @@
 {
   "date_label": "12 Kasım 2026 Perşembe",
   "date": "2026-11-12",
-  "updated_at": "Asia/Famagusta ~09:15-09:25; siber güvenlik eklemesi ~10:35",
+  "updated_at": "Asia/Famagusta ~09:15-09:25; siber güvenlik eklemesi ~10:35; kur eklemesi ~12:55",
   "sections": [
     {
       "heading": "KKTC",
@@ -75,7 +75,7 @@
     },
     {
       "heading": "Finans",
-      "note": "BIST 100: CNBC-e, 12 Kas açılış. USD/TRY, EUR/TRY: Yeniçağ 07:13. Ons ve gram altın, Brent: AA (platinonline) 09:15. ABD vadeli: Investing.com 02:25 (Asia/Famagusta).",
+      "note": "BIST 100: CNBC-e, 12 Kas açılış. USD/TRY, EUR/TRY: Yeniçağ 07:13. GBP/TRY, EUR/USD, GBP/USD, EUR/GBP: Yahoo Finance 12:55. Ons ve gram altın, Brent: AA (platinonline) 09:15. ABD vadeli: Investing.com 02:25 (Asia/Famagusta).",
       "table": {
         "columns": [
           "Varlık",
@@ -97,6 +97,26 @@
             "EUR/TRY",
             "55,78",
             "-%0,49"
+          ],
+          [
+            "GBP/TRY",
+            "66,73",
+            "-%0,52"
+          ],
+          [
+            "EUR/USD",
+            "1,1104",
+            "-%0,58"
+          ],
+          [
+            "GBP/USD",
+            "1,3278",
+            "-%0,53"
+          ],
+          [
+            "EUR/GBP",
+            "0,8360",
+            "-%0,07"
           ],
           [
             "Ons altın",
@@ -150,7 +170,7 @@
     },
     {
       "heading": "Kripto",
-      "note": "Fiyatlar: CoinGecko, 12 Kasım 09:19 (Asia/Famagusta), 24 saatlik değişim.",
+      "note": "BTC, ETH, SOL, XRP: CoinGecko, 12 Kasım 09:19 (Asia/Famagusta), 24 saatlik değişim. USDT/TRY: Binance, 12:55 (Asia/Famagusta).",
       "table": {
         "columns": [
           "Varlık",
@@ -177,6 +197,11 @@
             "XRP",
             "$1,043",
             "-%1,07"
+          ],
+          [
+            "USDT/TRY",
+            "50,22",
+            "+%0,02"
           ]
         ]
       },
