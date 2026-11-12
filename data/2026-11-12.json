@@ -1,0 +1,252 @@
+{
+  "date_label": "12 Kasım 2026 Perşembe",
+  "date": "2026-11-12",
+  "updated_at": "Asia/Famagusta ~09:15-09:25; siber güvenlik eklemesi ~10:35",
+  "sections": [
+    {
+      "heading": "KKTC",
+      "items": [
+        {
+          "text": "Üstel'in koşulsuz bedelli askerlik vaadi seçim gündeminin tepesine oturdu. Kudret Özersay 'Aralık celbinde kim gidecek askere?' diye sordu; 6 Aralık seçimine doğru tartışma sürüyor.",
+          "source_label": "Kıbrıs Postası",
+          "url": "https://www.kibrispostasi.com/c35-KIBRIS_HABERLERI/n619483-kudret-ozersaydan-ustele-bedelli-askerlik-tepkisi-aralik-celbinde-kim-gidecek-askere"
+        },
+        {
+          "text": "KTOEÖS bugün İskele merkez ve çevre okullarda öğleden sonra greve gidiyor; 14.00'te Ecevit Meydanı'nda eylem ve basın açıklaması yapılacak.",
+          "source_label": "Kıbrıs Gazetesi",
+          "url": "https://kibrisgazetesi.com/iskeledeki-okullarda-ogleden-sonra-grev-yapilacak/"
+        },
+        {
+          "text": "15 Kasım kutlamaları için Türk Yıldızları bugün 09.30-12.30 ve 14.15-17.30 arasında Ercan hava sahasında uçacak; bu saatlerde hava sporları ve dron uçuşları yasak.",
+          "source_label": "KKTC Enformasyon Dairesi",
+          "url": "https://pio.mfa.gov.ct.tr/turk-yildizlarinin-gosterisi-nedeniyle-notam-yayimlandi/"
+        }
+      ]
+    },
+    {
+      "heading": "Türkiye",
+      "items": [
+        {
+          "text": "HABAŞ Aliağa patlaması soruşturmasında 11 şüpheliden 9'u tutuklandı, yönetim kurulu başkanı ev hapsiyle serbest bırakıldı. Can kaybı 19'a yükseldi.",
+          "source_label": "Euronews",
+          "url": "https://tr.euronews.com/2026/11/12/habas-patlamasinda-9-tutuklama-yonetim-kurulu-baskani-adli-kontrolle-serbest"
+        },
+        {
+          "text": "Erdoğan'ın COP31 Liderler Zirvesi'ndeki İsrail eleştirisine İsrail'den gelen tepkilere AK Parti Sözcüsü Ömer Çelik sert yanıt verdi. Erdoğan bugün COP31 İş Forumu'na katılıyor.",
+          "source_label": "Sabah",
+          "url": "https://www.sabah.com.tr/gundem/2026/11/12/son-dakika-ak-parti-sozcusu-celik-katliam-sebekesi-suclarini-bu-yalanlarla-gizleyemez"
+        },
+        {
+          "text": "Benzine bugünden itibaren litre başına yaklaşık 3,40 TL indirim geldi; yeni fiyatlar pompaya yansıdı.",
+          "source_label": "Mynet",
+          "url": "https://www.mynet.com/mynetin-sesi/benzine-indirim-geldi-rusya-nin-washington-buyukelcisi-hayatini-kaybetti-a-milli-futbol-takimi-belcika-yi-konuk-edecek-iste-gunun-ilk-basliklari--5179"
+        },
+        {
+          "text": "A Milli Takım, UEFA Uluslar A Ligi'nde bu akşam 20.00'de İzmir'de Belçika'yı konuk ediyor.",
+          "source_label": "Anadolu Ajansı gündemi",
+          "url": "https://www.ensondakika.com.tr/gundem-12-kasim-2026/739204/"
+        }
+      ]
+    },
+    {
+      "heading": "Dünya",
+      "items": [
+        {
+          "text": "Rusya ve Ukrayna, Abu Dabi görüşmelerinde büyük bir esir takasında prensipte anlaştı. ABD temsilcileri Witkoff ve Kushner Putin'le görüşmek için Moskova'ya ulaştı.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-12/4121709"
+        },
+        {
+          "text": "İran zenginleştirilmiş uranyumu teslim etmeyi reddetti; Devrim Muhafızları Hürmüz'de iki tankerin daha patladığını açıkladı. İsrail güvenlik kabinesi orduya olası bir İran saldırısına hazırlanma talimatı verdi.",
+          "source_label": "World Watch",
+          "url": "https://worldwatch.media/en/digest/2026-11-12"
+        },
+        {
+          "text": "İspanya'da konut maliyetlerine karşı 14 yılın ilk genel grevine milyonlarca kişi katıldı.",
+          "source_label": "World Watch",
+          "url": "https://worldwatch.media/en/digest/2026-11-12#spain"
+        },
+        {
+          "text": "Kongo DC'de doğrulanmış Ebola vakası Mayıs'tan bu yana 11 bini aştı; ülke tarihinin en büyük salgını.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-12/4121709#ebola"
+        }
+      ]
+    },
+    {
+      "heading": "Finans",
+      "note": "BIST 100: CNBC-e, 12 Kas açılış. USD/TRY, EUR/TRY: Yeniçağ 07:13. Ons ve gram altın, Brent: AA (platinonline) 09:15. ABD vadeli: Investing.com 02:25 (Asia/Famagusta).",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "Değişim"
+        ],
+        "rows": [
+          [
+            "BIST 100 (açılış)",
+            "11.675,26",
+            "+%0,08"
+          ],
+          [
+            "USD/TRY",
+            "50,25",
+            "+%0,05"
+          ],
+          [
+            "EUR/TRY",
+            "55,78",
+            "-%0,49"
+          ],
+          [
+            "Ons altın",
+            "$3.977",
+            "-%0,20"
+          ],
+          [
+            "Gram altın",
+            "6.428 TL",
+            "-%0,12"
+          ],
+          [
+            "Brent (Ocak)",
+            "$91,30",
+            "-%1,6"
+          ],
+          [
+            "S&P 500 vadeli",
+            "7.608,75",
+            "-%0,4"
+          ],
+          [
+            "Nasdaq 100 vadeli",
+            "28.205,75",
+            "-%1,0"
+          ],
+          [
+            "Dow vadeli",
+            "52.577",
+            "yatay"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "Nvidia'nın yönetim kurulunun CEO Jensen Huang'ı görevden almayı değerlendirdiği haberiyle hisse mesai sonrası %8'den fazla düştü, Nasdaq vadelileri %1 geriledi. Normal seansta S&P 500 %1,3 yükselmişti.",
+          "source_label": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-fall-as-nvidia-slides-on-report-of-possible-ceo-ouster-5020125"
+        },
+        {
+          "text": "TCMB kredi büyüme sınırlarını yükseltti: ihtiyaç ve taşıt kredilerinde 8 haftalık sınır %3'ten %3,5'e, KOBİ TL kredilerinde %5'ten %5,5'e çıktı. MSCI, Astor ve Sabancı Holding'i standart endeksten küçük ölçekli endekse aldı.",
+          "source_label": "CNBC-e",
+          "url": "https://www.cnbce.com/borsa/borsa-istanbul-canli-kritik-tcmb-gununde-piyasalar-hareketli-12-kasim-2026-h41635"
+        },
+        {
+          "text": "Dolar endeksi 19 ayın zirvesine çıkınca ons altın 4.000 doların altına indi; piyasalar bugün TCMB'nin yılın son Enflasyon Raporu'nu izleyecek.",
+          "source_label": "Platin Online (AA)",
+          "url": "https://www.platinonline.com/altin/gram-ons-ceyrek-altin-fiyatlarinda-gunun-ilk-rakamlari-1100743"
+        }
+      ]
+    },
+    {
+      "heading": "Kripto",
+      "note": "Fiyatlar: CoinGecko, 12 Kasım 09:19 (Asia/Famagusta), 24 saatlik değişim.",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "24s"
+        ],
+        "rows": [
+          [
+            "Bitcoin (BTC)",
+            "$73.391",
+            "-%0,31"
+          ],
+          [
+            "Ethereum (ETH)",
+            "$2.044,40",
+            "-%0,57"
+          ],
+          [
+            "Solana (SOL)",
+            "$82,72",
+            "+%0,22"
+          ],
+          [
+            "XRP",
+            "$1,043",
+            "-%1,07"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "MSCI, Strategy'yi (MSTR) küresel endekslerinden çıkaracağını teyit etti; hisse mesai sonrası %4 düştü. Şirket daha önce bunun 2,8 milyar dolarlık hisse satışına yol açacağını söylemişti.",
+          "source_label": "Investing.com",
+          "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-736k-strategy-drops-on-msci-index-removal-5020451"
+        },
+        {
+          "text": "Bitcoin haftalık %8,3 kaybın ardından 73.700 dolar civarında; sıcak ABD enflasyonu Fed faiz artırımı endişesini büyütüyor.",
+          "source_label": "Moneycontrol",
+          "url": "https://www.moneycontrol.com/news/business/personal-finance/bitcoin-hovers-near-73-700-after-8-3-weekly-slide-as-us-inflation-fuels-fed-rate-hike-concerns-14077859.html"
+        },
+        {
+          "text": "ABD ara seçimlerinde Demokratların kazanımı, Kongre'nin kriptoya daha sıkı bakacağı endişesini artırdı; altcoinler yatay seyrediyor.",
+          "source_label": "Investing.com",
+          "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-736k-strategy-drops-on-msci-index-removal-5020451#regulation"
+        }
+      ]
+    },
+    {
+      "heading": "Teknoloji",
+      "items": [
+        {
+          "text": "Google DeepMind, genetik varyantların hücre tipine göre etkisini tahmin eden AlphaGenome 2'yi duyurdu; önceki modele göre neredeyse iki kat daha fazla etkili varyant buluyor.",
+          "source_label": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-12-2026/"
+        },
+        {
+          "text": "United Airlines, izinsiz yapay zekâ ajanlarının bilet satın almasını engelliyor; ajanlar uçuşları gösterebilir ama ödemeyi kullanıcı yapmalı.",
+          "source_label": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-thursday-november-12-2026/#united"
+        },
+        {
+          "text": "Runway, videolardan dünyayı öğrenip robot kontrol eden açık ağırlıklı Praxis-1 modelini tanıttı.",
+          "source_label": "GIGAZINE",
+          "url": "https://gigazine.net/gsc_news/en/20261112-praxis-1"
+        },
+        {
+          "text": "Muji'nin işletmecisi Ryohin Keikaku, siber saldırıda yaklaşık 1,09 milyon kredi kartı kaydının sızmış olabileceğini açıkladı.",
+          "source_label": "Kyodo News",
+          "url": "https://english.kyodonews.net/articles/-/91120"
+        }
+      ]
+    },
+    {
+      "heading": "Siber Güvenlik",
+      "items": [
+        {
+          "text": "KVKK, Pegasus Hava Taşımacılığı'nda yönetici parolasıyla yetkisiz erişim sonucu 11.762 çalışan ve kullanıcının kimlik ve iletişim verilerinin etkilendiğini duyurdu. İhlal 12-26 Ekim arasında yaşandı; etkilenenler Pegasus'un sitesindeki iletişim kanallarından bilgi alabilir.",
+          "source_label": "KVKK",
+          "url": "https://www.kvkk.gov.tr/Icerik/9097/kamuoyu-duyurusu-veri-ihlali-bildirimi-pegasus-hava-tasimaciligi-a-s"
+        },
+        {
+          "text": "Microsoft, Kasım yamalarında saldırılarda kullanılan bir Outlook açığını kapattı; özel hazırlanmış bir dosya açılınca NTLMv2 kimlik özeti sızabiliyor ve hesap taklit edilebiliyor. Windows ve Outlook güncellemesini hemen yükleyin; CISA açığı KEV listesine ekledi, kurumların 24 Kasım'a kadar yaması gerekiyor.",
+          "source_label": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html"
+        },
+        {
+          "text": "Huntress, ConnectWise ScreenConnect kullanan hizmet sağlayıcılara yönelik aktif bir saldırı kampanyası tespit etti; şimdilik 6 sağlayıcı ve 47 kuruluşta 286 uç nokta etkilenmiş, sayı artıyor. ConnectWise soruşturma başlattı; ortakların şüpheli cihazlara oturum açmamasını, oturumları iptal edip parolaları sıfırlamasını ve çok faktörlü doğrulamayı kontrol etmesini istedi.",
+          "source_label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/"
+        },
+        {
+          "text": "KVKK, DHL AG'nin çalışan anketleri için kullandığı bir hizmet sağlayıcısının sistemine yetkisiz erişim sonucu Türkiye'deki 10.622 çalışanın kimlik, iletişim ve özlük verilerinin etkilendiğini duyurdu. İhlal 2 Kasım'da tespit edildi, inceleme sürüyor.",
+          "source_label": "KVKK",
+          "url": "https://www.kvkk.gov.tr/Icerik/9096/kamuoyu-duyurusu-veri-ihlali-bildirimi-dhl-ag"
+        }
+      ]
+    }
+  ]
+}
