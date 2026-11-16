@@ -1,0 +1,287 @@
+{
+  "date_label": "16 Kasım 2026 Pazartesi",
+  "date": "2026-11-16",
+  "updated_at": "Asia/Famagusta ~08:45",
+  "sections": [
+    {
+      "heading": "KKTC",
+      "items": [
+        {
+          "text": "KKTC'nin 43. kuruluş yıl dönümü Cumhurbaşkanlığı'ndaki resepsiyonla tamamlandı; Erhürman \"El eleyiz, yürek yüreğiz\" dedi, Türkiye'den Cevdet Yılmaz ve Yaşar Güler de katıldı.",
+          "source_label": "Hürriyet",
+          "url": "https://www.hurriyet.com.tr/gundem/kktcnin-43-kurulus-yil-donumunde-cumhurbaskanliginda-resepsiyon-duzenlendi-43379607"
+        },
+        {
+          "text": "Cevdet Yılmaz, Anamur–Teknecik arasında yaklaşık 101 km'lik deniz altı doğal gaz hattı için ilk etütlerin yapıldığını açıkladı; eğitim yatırımlarına yaklaşık 1 milyar lira ayrıldı.",
+          "source_label": "Ankara Net Haber",
+          "url": "https://www.ankaranethaber.com/turkiyeden-kktcye-dev-enerji-projesi-deniz-altindan-dogal-gaz-tasinacak"
+        },
+        {
+          "text": "Yılmaz, tüm devletleri KKTC'yi tanımaya ve izolasyonları kaldırmaya çağırdı; adada \"iki ayrı halk ve iki ayrı devlet\" bulunduğunu vurguladı.",
+          "source_label": "Sabah",
+          "url": "https://www.sabah.com.tr/gundem/2026/11/16/yilmazdan-erhurmana-tebrik"
+        }
+      ]
+    },
+    {
+      "heading": "Türkiye",
+      "items": [
+        {
+          "text": "İzmir'deki HABAŞ Demir Çelik fabrikasında 19 işçinin hayatını kaybettiği kaza manşetlerde; fabrika yönetiminin haberleri kaldırtma girişimi tepki çekiyor.",
+          "source_label": "eGündem (manşet özeti)",
+          "url": "https://egundem.com/gundem/yuksek-yerilim-hatti-16-kasim-2026-d4bb4beb"
+        },
+        {
+          "text": "Yeni Parti'nin 1. Kurultayı'nda Özgür Özel'in listesi firesiz geçti; Parti Meclisi 80'den 160 üyeye çıkarıldı, Veli Ağbaba ve Bülent Tezcan liste dışı kaldı.",
+          "source_label": "eGündem (manşet özeti)",
+          "url": "https://egundem.com/gundem/yuksek-yerilim-hatti-16-kasim-2026-d4bb4beb#yeni-parti"
+        },
+        {
+          "text": "Bugün Erdoğan AK Parti MYK'sına başkanlık edecek; Antalya'da COP31 oturumları sürüyor, TCMB 3. çeyrek ticari gayrimenkul fiyat endeksini açıklayacak, Fidan Brüksel'de.",
+          "source_label": "En Son Dakika (AA gündem)",
+          "url": "https://www.ensondakika.com.tr/gundem-16-kasim-2026/741482/"
+        }
+      ]
+    },
+    {
+      "heading": "Dünya",
+      "items": [
+        {
+          "text": "İran üç günde ikinci kez Bahreyn'e drone saldırısı düzenledi; ABD'nin USS Theodore Roosevelt'i göndermesiyle bölgedeki uçak gemisi sayısı üçe çıkıyor.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094"
+        },
+        {
+          "text": "Yemen'de hükümet yanlısı güçler Husilerin ilerleyişi üzerine stratejik Bab el-Mendeb bölgesinden çekilip Aden savunmasına yöneldi.",
+          "source_label": "Xinhua",
+          "url": "https://english.news.cn/20261116/00055113636b428fb787c33ef0bb7cc5/c.html"
+        },
+        {
+          "text": "Estonya, savunma sanayi şirketine yönelik başarısız sabotaj girişiminin ardından 1 Aralık'tan itibaren Rusya ile tüm sınır kapılarını kapatacak.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-16-2026/4126094#estonia"
+        },
+        {
+          "text": "Kongo DC'deki Ebola salgını altıncı ayında: doğrulanmış vaka 11.100'ü, ölüm 5.400'ü aştı; haftada 400–500 yeni vaka bildiriliyor.",
+          "source_label": "Xinhua",
+          "url": "https://english.news.cn/20261116/00055113636b428fb787c33ef0bb7cc5/c.html#ebola"
+        }
+      ]
+    },
+    {
+      "heading": "Finans",
+      "note": "BIST 100 ve ABD endeksleri: 13 Kasım Cuma kapanışı. Kurlar, ons altın (vadeli), Brent ve ABD vadelileri: Yahoo Finance, 16 Kasım ~08:30 (değişim önceki kapanışa göre). Gram altın: Piyasadöviz, 16 Kasım sabah. Saatler Asia/Famagusta.",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "Değişim"
+        ],
+        "rows": [
+          [
+            "BIST 100 (Cuma)",
+            "11.842,82",
+            "+%1,51"
+          ],
+          [
+            "USD/TRY",
+            "50,37",
+            "+%0,05"
+          ],
+          [
+            "EUR/TRY",
+            "55,54",
+            "+%0,09"
+          ],
+          [
+            "GBP/TRY",
+            "66,55",
+            "+%0,05"
+          ],
+          [
+            "EUR/USD",
+            "1,1019",
+            "-%0,08"
+          ],
+          [
+            "GBP/USD",
+            "1,3207",
+            "-%0,02"
+          ],
+          [
+            "EUR/GBP",
+            "0,8341",
+            "-%0,02"
+          ],
+          [
+            "Altın (ons, vadeli)",
+            "$3.866,7",
+            "-%0,50"
+          ],
+          [
+            "Gram altın",
+            "≈6.249 TL",
+            "—"
+          ],
+          [
+            "Brent",
+            "$96,11",
+            "+%0,28"
+          ],
+          [
+            "S&P 500 (Cuma)",
+            "7.561,67",
+            "-%0,40"
+          ],
+          [
+            "Nasdaq Bileşik (Cuma)",
+            "25.136,27",
+            "-%0,91"
+          ],
+          [
+            "Dow Jones (Cuma)",
+            "52.347,55",
+            "+%0,10"
+          ],
+          [
+            "S&P 500 vadeli",
+            "7.540,50",
+            "-%0,56"
+          ],
+          [
+            "Nasdaq 100 vadeli",
+            "27.675,25",
+            "-%1,28"
+          ],
+          [
+            "Dow vadeli",
+            "52.329",
+            "-%0,17"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "Asya borsaları Nvidia'daki Jensen Huang krizinin etkisiyle düştü; Tokyo, Seul ve Taipei'de çip hisseleri (TSMC, SK hynix, Tokyo Electron) baskı altında. Nvidia bilançosu Salı, Anthropic halka arzı da bu hafta.",
+          "source_label": "Euronews",
+          "url": "https://www.euronews.com/2026/11/16/stocks-extend-losses-as-traders-await-nvidia-earnings-and-anthropic-ipo"
+        },
+        {
+          "text": "Haftanın diğer kritik verileri ABD perakende satışları ve Fed'in Ekim tutanakları; piyasa Aralık'ta faiz artırımı ihtimalini fiyatlıyor.",
+          "source_label": "Euronews",
+          "url": "https://www.euronews.com/2026/11/16/stocks-extend-losses-as-traders-await-nvidia-earnings-and-anthropic-ipo#fed"
+        },
+        {
+          "text": "Petrol, IEA'nın 4. çeyrekte arz fazlası beklentisiyle hafif geriledi ama İran'ın Bahreyn saldırısı düşüşü sınırlıyor; gram altın son bir yılın en düşük seviyesine yaklaştı.",
+          "source_label": "NTV",
+          "url": "https://www.ntv.com.tr/ntvpara/altin/galeri-altin-yatirimcisini-uzen-gelisme-son-1-yilin-en-dusuk-seviyesine-yaklasti-1751057"
+        }
+      ]
+    },
+    {
+      "heading": "Kripto",
+      "note": "BTC, ETH, SOL, XRP: Coinbase, 16 Kasım ~08:30 (Asia/Famagusta), 24 saatlik değişim. USDT/TRY: Binance, ~08:30.",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "24s"
+        ],
+        "rows": [
+          [
+            "Bitcoin (BTC)",
+            "$64.415",
+            "-%0,02"
+          ],
+          [
+            "Ethereum (ETH)",
+            "$1.810",
+            "+%1,04"
+          ],
+          [
+            "Solana (SOL)",
+            "$70,84",
+            "+%0,60"
+          ],
+          [
+            "XRP",
+            "$0,951",
+            "-%0,77"
+          ],
+          [
+            "USDT/TRY",
+            "50,66",
+            "-%0,43"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "Bitcoin hafta sonu ~62.000 $ ile Temmuz'dan beri en düşük seviyeyi gördü, ardından 65.000 $ civarına toparlandı; haftalık kayıp ~%14, ETH ~%18. Hafta sonu tasfiyeler 2,02 milyar $'ı buldu.",
+          "source_label": "investingLive",
+          "url": "https://investinglive.com/cryptocurrency/weekend-bitcoin-fell-to-four-month-low-near-62-000-as-crypto-liquidations-top-2-billion/"
+        },
+        {
+          "text": "Spot Bitcoin ETF'leri üst üste üçüncü haftada net çıkış verdi (13 Kasım'a kadar 1,07 milyar $); Fed'in Aralık'ta faiz artırma beklentisi baskıyı artırıyor.",
+          "source_label": "Investing.com",
+          "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-65k-as-crypto-sentiment-dithers-etf-outflows-persist-5028381"
+        },
+        {
+          "text": "Deribit'te en büyük opsiyon pozisyonu artık 60.000 $ put (900 milyon $ açık pozisyon); analistler 60 bin altında bir kırılımın sert düşüş riskine işaret ediyor.",
+          "source_label": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000"
+        }
+      ]
+    },
+    {
+      "heading": "Teknoloji",
+      "items": [
+        {
+          "text": "İtalya veri koruma otoritesi, Facebook'un Android'de kullanıcı fotoğraflarına özel onay almadan erişmesi nedeniyle Meta'ya 805 milyon € ceza verdi; şirketin değişiklik için 60 günü var.",
+          "source_label": "Tin Drum Fire Tech Briefing (Engadget)",
+          "url": "https://news.tindrumfire.com/technology-briefing-2026-11-16/"
+        },
+        {
+          "text": "Google, gizli (şifreli) yapay zekâ çıkarımı için AMD Epyc \"Turin\" işlemcilerle eşleştirilen TPU 8tx'i tanıttı; 12,6 petaflop FP4 ve 216 GB HBM sunuyor.",
+          "source_label": "Tin Drum Fire Tech Briefing (TechRadar)",
+          "url": "https://news.tindrumfire.com/technology-briefing-2026-11-16/#tpu"
+        },
+        {
+          "text": "ABD NRC, X-energy'nin Teksas'taki Dow tesisine dört Xe-100 küçük modüler reaktör kurması için inşaat izni verdi; ilk sanayi sahası nükleer izni, devreye giriş 2030'ların başı.",
+          "source_label": "Tin Drum Fire Tech Briefing",
+          "url": "https://news.tindrumfire.com/technology-briefing-2026-11-16/#smr"
+        },
+        {
+          "text": "FT'ye göre istifa eden Nvidia CEO'su Jensen Huang'ın geri dönüşü konuşuluyor; Musk'ın da aralarında olduğu 158 binden fazla kişi dönüş çağrısını imzaladı.",
+          "source_label": "Euronews",
+          "url": "https://www.euronews.com/2026/11/16/stocks-extend-losses-as-traders-await-nvidia-earnings-and-anthropic-ipo#huang"
+        }
+      ]
+    },
+    {
+      "heading": "Siber Güvenlik",
+      "items": [
+        {
+          "text": "Check Point Security Gateway'lerde PHP2Shell RCE açıkları (CVE-2026-109618/-109619) ve DynamicCLI yetki yükseltme açığı (CVE-2026-123039) aktif istismar ediliyor; saldırganlar web shell, proxy ve wiper bırakıyor. CISA açığı 13 Kasım'da KEV'e ekledi. Check Point kullanıyorsanız hemen yamalayın ve web shell taraması yapın.",
+          "source_label": "SANS ISC Stormcast",
+          "url": "https://isc.sans.edu/podcastdetail/10095"
+        },
+        {
+          "text": "Barracuda, iş bittikten sonra iptal edilmeyen bir üçüncü taraf AI servisi erişim anahtarıyla bulut ortamına sızıldığını açıkladı; saldırgan 10 bulut ortamına ulaştı ve kripto cüzdan/seed verisi aradı. Kullanılmayan API anahtarlarını iptal edin.",
+          "source_label": "Risky Bulletin",
+          "url": "https://news.risky.biz/risky-bulletin-hackers-accessed-barracudas-cloud/"
+        },
+        {
+          "text": "Fransız La Poste'un Maileva birimine yapılan saldırıda 22 milyon kişinin ad-soyad ve posta adresi sızdı; hedefli dolandırıcılık ve oltalama riskine dikkat.",
+          "source_label": "iSec News",
+          "url": "https://www.isec.news/2026/11/16/la-poste-maileva-breach-22-million-recipients/"
+        },
+        {
+          "text": "macOS'ta \"Macfinger\" ClickFix kampanyası, kullanıcıya Terminal'e komut yapıştırtarak DownTheDRAIN kripto cüzdan boşaltıcısını yüklüyor. Web sayfalarının söylediği komutları asla Terminal'e yapıştırmayın.",
+          "source_label": "SANS ISC Stormcast",
+          "url": "https://isc.sans.edu/podcastdetail/10095#macfinger"
+        }
+      ]
+    }
+  ]
+}
