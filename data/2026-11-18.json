@@ -1,0 +1,282 @@
+{
+  "date_label": "18 Kasım 2026 Çarşamba",
+  "date": "2026-11-18",
+  "updated_at": "Asia/Famagusta ~08:35",
+  "sections": [
+    {
+      "heading": "KKTC",
+      "items": [
+        {
+          "text": "YKP Parti Meclisi, 6 Aralık'taki erken genel seçimi boykot etme kararı aldı ve halkı sandığa gitmemeye çağırdı.",
+          "source_label": "Havadis",
+          "url": "https://www.havadiskibris.com/ykp-secimleri-boykot-etme-karari-aldi/"
+        },
+        {
+          "text": "BRTK Radyo Müdürü Betül Arslan Akkuş, Koordinatör Gül Uzun'un kendisini darp ettiğini iddia ederek darp raporu aldı ve polise şikâyetçi oldu; Uzun iddiayı reddediyor.",
+          "source_label": "Kıbrıs Postası",
+          "url": "https://www.kibrispostasi.com/c35-KIBRIS_HABERLERI/n620214-brtkda-sekreter-tartismasi-arslandan-darp-iddiasi-uzundan-ret"
+        },
+        {
+          "text": "Makina Mühendisleri Odası, AKSA'ya 35 MW'lık ilave \"sıcak yedek\" santral kuran Bakanlar Kurulu kararının teknik ve yasal dayanağı olmadığını söyledi; konu yargıya taşındı.",
+          "source_label": "Havadis",
+          "url": "https://www.havadiskibris.com/makina-muhendisleri-odasi-aksaya-ilave-santral-bakanlar-kurulu-kararinin-gecerli-dayanagi-yok-iptal-edilmeli/"
+        },
+        {
+          "text": "Ek: Lefkoşa'da bugün 10.00–12.00 arası Gönyeli çemberi ile YDÜ kuzeyindeki Kofalılar Sitesi arasında elektrik kesintisi var.",
+          "source_label": "Kıbrıs Postası",
+          "url": "https://www.kibrispostasi.com/c87-LEFKOSA/n620093-lefkosanin-bazi-bolgelerinde-bugun-10001200-saatleri-arasinda-elektrik-kesintisi-yapilacak"
+        }
+      ]
+    },
+    {
+      "heading": "Türkiye",
+      "items": [
+        {
+          "text": "Sözcü TV ve sozcu.com.tr'ye kayyum atanmasına tepkiler büyüyor: 13 baro ortak açıklama yaptı, Avrupa Parlamentosu milletvekilleri de kararı eleştirdi.",
+          "source_label": "Euronews",
+          "url": "https://tr.euronews.com/2026/11/18/avrupa-parlamentosu-milletvekillerinden-sozcu-tvye-kayyum-atanmasina-tepki"
+        },
+        {
+          "text": "Cumhurbaşkanı Erdoğan bugün 12.00'de AK Parti TBMM Grup toplantısında konuşacak; TBMM Başkanı Kurtulmuş 15.00'te Yeni Parti Grubu'nu ziyaret edecek.",
+          "source_label": "En Son Dakika",
+          "url": "https://www.ensondakika.com.tr/gundem-18-kasim-2026/742820/"
+        },
+        {
+          "text": "İçişleri Bakanlığı'nın Plan ve Bütçe Komisyonu'ndaki bütçe görüşmesine Sözcü TV kayyumu damga vurdu; muhalefet sert tepki gösterdi.",
+          "source_label": "Cumhuriyet",
+          "url": "https://www.cumhuriyet.com.tr/turkiye/icisleri-bakanligi-nin-butce-gorusmesine-sozcu-tv-ye-kayyim-atanmasi-damga-vurdu-hirsizlar-disarida-geziyor-hirsizligi-konusani-kapatiyorsunuz-2557035"
+        }
+      ]
+    },
+    {
+      "heading": "Dünya",
+      "items": [
+        {
+          "text": "Xi Jinping ile Putin Şenzhen'de görüştü; yarın Trump'la tarihteki ilk üçlü zirve yapılacak. Gündemde nükleer silah kontrolü, Ukrayna, İran ve ticaret var; büyük atılım beklenmiyor.",
+          "source_label": "AFP",
+          "url": "https://www.afp.com/en/xi-putin-meet-ahead-historic-trump-trilateral-summit"
+        },
+        {
+          "text": "ABD–İran karşılıklı saldırıları sürüyor: Kuveyt ve Bahreyn drone ve füze saldırıları bildirdi; Hürmüz'de tanker saldırıları ve mayın riski deniz trafiğini baskılıyor.",
+          "source_label": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20261118-middle-east-live-kuwait-bahrain-report-drone-and-missile-attacks"
+        },
+        {
+          "text": "APEC canlı yayınında ABD Dışişleri Bakanı Rubio, Trump'ın Kim Jong-un ile görüşme konusunda ciddi olduğunu söyledi.",
+          "source_label": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china"
+        }
+      ]
+    },
+    {
+      "heading": "Finans",
+      "note": "BIST 100 ve ABD endeksleri: 17 Kasım kapanışı. Kurlar, ons altın (vadeli), Brent ve ABD vadelileri: Yahoo Finance, 18 Kasım ~08:15–08:25 (önceki kapanışa göre). Gram altın: ons × USD/TRY ÷ 31,1035 ile hesaplandı (piyasa satış fiyatı değil). Saatler Asia/Famagusta.",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "Değişim"
+        ],
+        "rows": [
+          [
+            "BIST 100 (17 Kas kapanış)",
+            "11.661,00",
+            "-%1,53"
+          ],
+          [
+            "USD/TRY",
+            "50,43",
+            "%0,00"
+          ],
+          [
+            "EUR/TRY",
+            "55,41",
+            "-%0,11"
+          ],
+          [
+            "GBP/TRY",
+            "66,52",
+            "-%0,16"
+          ],
+          [
+            "EUR/USD",
+            "1,0984",
+            "-%0,16"
+          ],
+          [
+            "GBP/USD",
+            "1,3191",
+            "-%0,14"
+          ],
+          [
+            "EUR/GBP",
+            "0,8325",
+            "%0,00"
+          ],
+          [
+            "Altın (ons, vadeli)",
+            "$3.787",
+            "-%1,99"
+          ],
+          [
+            "Gram altın (hesaplanan)",
+            "6.140 TL",
+            "—"
+          ],
+          [
+            "Brent (vadeli)",
+            "$92,31",
+            "-%0,89"
+          ],
+          [
+            "S&P 500 (17 Kas)",
+            "7.340,53",
+            "-%1,03"
+          ],
+          [
+            "Nasdaq Bileşik (17 Kas)",
+            "24.328,38",
+            "-%0,74"
+          ],
+          [
+            "Dow Jones (17 Kas)",
+            "50.759,42",
+            "-%1,64"
+          ],
+          [
+            "S&P 500 vadeli",
+            "7.374,50",
+            "+%0,21"
+          ],
+          [
+            "Nasdaq 100 vadeli",
+            "27.199,00",
+            "+%0,46"
+          ],
+          [
+            "Dow vadeli",
+            "50.847",
+            "+%0,06"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "Nvidia 3. çeyrekte gelirini ikiye katlayarak 115 milyar doları aştı (net kâr 65,3 milyar $), hisse mesai sonrası ~%5 yükseldi; ancak Jensen Huang'ın istifasına yol açan casusluk skandalı Asya borsalarını baskıladı.",
+          "source_label": "France 24",
+          "url": "https://www.france24.com/en/live-news/20261118-stocks-drop-as-booming-nvidia-results-drowned-by-spy-scandal"
+        },
+        {
+          "text": "BIST 100 dün %1,53 düşüşle 11.661'den kapandı; analistler 11.600'ü destek, 11.900'ü direnç olarak izliyor.",
+          "source_label": "Foreks",
+          "url": "https://www.foreks.com/haber/detay/6afd35cb95131d72027df5c4/FRKS/tr/analiz-piyasalarda-bugun-qnb-invest-18-11-26/"
+        },
+        {
+          "text": "TÜİK bugün 10.00'da temmuz–eylül dönemi iş gücü istatistiklerini açıklayacak.",
+          "source_label": "En Son Dakika",
+          "url": "https://www.ensondakika.com.tr/gundem-18-kasim-2026/742820/"
+        }
+      ]
+    },
+    {
+      "heading": "Kripto",
+      "note": "BTC, ETH, SOL, XRP: CoinGecko, 18 Kasım ~08:25 (Asia/Famagusta), 24 saatlik değişim. USDT/TRY: BtcTurk, ~08:25 (günlük değişim).",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "24s"
+        ],
+        "rows": [
+          [
+            "BTC",
+            "$64.654",
+            "+%0,16"
+          ],
+          [
+            "ETH",
+            "$1.811,47",
+            "-%0,85"
+          ],
+          [
+            "SOL",
+            "$75,00",
+            "+%3,43"
+          ],
+          [
+            "XRP",
+            "$0,9862",
+            "+%2,78"
+          ],
+          [
+            "USDT/TRY",
+            "50,379 TL",
+            "-%0,01"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "ABD spot Bitcoin ETF'lerinden 17 Kasım'da 239,9 milyon $ net çıkış oldu; BTC 64–65 bin $ bandında baskı altında.",
+          "source_label": "TokenPost",
+          "url": "https://www.tokenpost.com/news/investing/60143"
+        },
+        {
+          "text": "Lighter, sızdırılan bir API anahtarı üzerinden 10,4 milyon $ çalınmasının ardından tüm çekimleri durdurdu.",
+          "source_label": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit"
+        },
+        {
+          "text": "Coinbase zincir üstü kredileri New York'a genişletti; Ark Invest kripto hisseleri alırken 85 milyon $'lık Nvidia sattı.",
+          "source_label": "The Block",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-18-ark-invest-crypto-stocks-nvidia-coinbase-loans-new-york-crypto-news-442902"
+        }
+      ]
+    },
+    {
+      "heading": "Teknoloji",
+      "items": [
+        {
+          "text": "OpenAI, zorlu işler için GPT-6.2 Astra ve günlük işler için daha ucuz GPT-6.2 Sol modellerini ChatGPT, Codex ve API'de kullanıma açtı.",
+          "source_label": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+        },
+        {
+          "text": "Apple'ın iç güncellemesinden kaynaklanan kesinti iCloud, Apple Pay, App Store ve Apple Music'i etkiledi; Apple siber saldırı olmadığını ve hizmetlerin normale döndüğünü açıkladı.",
+          "source_label": "CBS News",
+          "url": "https://www.cbsnews.com/news/apple-outage-icloud-apple-pay-services/"
+        },
+        {
+          "text": "Nvidia'nın veri merkezi geliri yıllık %110 artışla 107,6 milyar $'a çıktı; şirket CEO krizine rağmen beklentileri aştı.",
+          "source_label": "Kıbrıs Postası",
+          "url": "https://www.kibrispostasi.com/"
+        }
+      ]
+    },
+    {
+      "heading": "Siber Güvenlik",
+      "items": [
+        {
+          "text": "OpenJDK'da \"Java4Shell\" (CVE-2026-114938) kritik uzaktan kod çalıştırma açığı Jenkins, Jira, Confluence ve Keycloak gibi uygulamaları etkiliyor; Oracle 17 Kasım'da yamaladı. Hemen güncelleyin ve tüm JVM'leri yeniden başlatın.",
+          "source_label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/"
+        },
+        {
+          "text": "Optimizely üzerinden yapıldığı düşünülen tedarik zinciri saldırısı CNN, BBC, Fox News, Salesforce ve GitLab gibi sitelere zararlı kod enjekte etti.",
+          "source_label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/"
+        },
+        {
+          "text": "n0n fidye grubu Visa ve JPMorgan'ı hacklediğini iddia etti; Visa bir tedarikçide olay yaşandığını doğruladı, kendi sistemlerinin ve ödeme verilerinin etkilenmediğini söyledi.",
+          "source_label": "Cybernews",
+          "url": "https://cybernews.com/security/visa-jpmorgan-data-breach/"
+        },
+        {
+          "text": "Ek: Brezilyalı borsa Mercado Bitcoin'in sıcak cüzdanından, ele geçirilen imza yetkisiyle 49 milyon $ çekildi. Borsada fazla bakiye tutmayın.",
+          "source_label": "Hypernative",
+          "url": "https://www.hypernative.io/insights/blog/the-49m-mercado-bitcoin-hot-wallet-drain"
+        }
+      ]
+    }
+  ]
+}
