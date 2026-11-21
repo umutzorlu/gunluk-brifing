@@ -1,0 +1,272 @@
+{
+  "date_label": "21 Kasım 2026 Cumartesi",
+  "date": "2026-11-21",
+  "updated_at": "Asia/Famagusta ~08:40",
+  "sections": [
+    {
+      "heading": "KKTC",
+      "items": [
+        {
+          "text": "Maliye eski Bakanı Ahmet Uzun, yerel bankaların yurt dışına euro ve sterlin havalesinde yaşadığı kısıtlamanın nedeninin netleşmesini istedi; hükümetin FATF ile doğrudan görüşmesi çağrısı yaptı.",
+          "source_label": "Kıbrıs Postası",
+          "url": "https://www.kibrispostasi.com/c35-KIBRIS_HABERLERI/n620567-ahmet-uzundan-hukumete-euro-ve-sterlin-havalelerindeki-kisitlama-icin-fatf-ile-gorusme-cagrisi"
+        },
+        {
+          "text": "6 Aralık seçimleri öncesi Gezici anketinde CTP %38,8, UBP %36,4 ile başa baş; kararsızlar %19,4. CTP'nin paylaştığı başka bir ankette ise CTP %43,9 ile tek başına iktidar görünüyor.",
+          "source_label": "Kıbrıs Postası",
+          "url": "https://www.kibrispostasi.com/c35-KIBRIS_HABERLERI/n620562-gezici-anketinde-ctp-ile-ubp-basa-bas-aradaki-fark-24-puan"
+        },
+        {
+          "text": "Cumhurbaşkanlığı: Güney'e geçişlerde bazı yurttaşlardan istenen ek belgeler kayıt güncellemesinden kaynaklanıyor; Rum tarafı prosedürde değişiklik olmadığını bildirdi.",
+          "source_label": "Kıbrıs Postası",
+          "url": "https://www.kibrispostasi.com/c35-KIBRIS_HABERLERI/n620529-cumhurbaskanligi-guney-kibrisa-gecislerde-ek-belge-talebi-kayitlarin-guncellenmesinden-kaynaklaniyor"
+        }
+      ]
+    },
+    {
+      "heading": "Türkiye",
+      "items": [
+        {
+          "text": "Türkiye, ICAO Konseyi seçimlerinde 158 oyun 133'ünü alarak konsey üyeliğine seçildi.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/gundem/turkiye-uluslararasi-sivil-havacilik-orgutu-konsey-uyeligine-secildi/4132606"
+        },
+        {
+          "text": "Sermaye Piyasası Kanunu'na muhalefet ve aklama suçlarından uluslararası aranan Serdar Altınbaş Çekya'da yakalandı.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/gundem/uluslararasi-seviyede-aranan-serdar-altinbas-cekyada-yakalandi/4132536"
+        },
+        {
+          "text": "COP31 kapanış oturumunda Başkan Murat Kurum uzlaşı çağrısı yaptı; ülkeler nihai taslakta fosil yakıtlardan uzaklaşma ifadesinin olmamasını eleştiriyor.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/gundem/cop31-baskani-kurum-dunyanin-umudu-bu-salonda-uzlasip-burada-bir-seyleri-degistirebiliriz/4132540"
+        },
+        {
+          "text": "Ek: Meteoroloji, İstanbul dahil 24 il için sarı kodlu uyarı verdi.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/gundem/meteorolojiden-istanbul-dahil-24-il-icin-sari-kodlu-uyari/4132063"
+        }
+      ]
+    },
+    {
+      "heading": "Dünya",
+      "items": [
+        {
+          "text": "Rusya'nın Ukrayna'ya yönelik büyük saldırısında iki seyir füzesi ve bir drone Polonya'ya düştü; Polonya 'kasıtlı provokasyon' dedi. Ukrayna'da en az 8 kişi öldü.",
+          "source_label": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine"
+        },
+        {
+          "text": "Zelenski, Trump'ın Putin'i 'dostum' diye anmasına karşılık 'bizim için o bir katil' dedi.",
+          "source_label": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cxnv4zvmdy0jo"
+        },
+        {
+          "text": "Danimarka, Rusya'yı ABD'li-Ukraynalı bir rapçiye suikast planlamakla suçladı.",
+          "source_label": "BBC News",
+          "url": "https://www.bbc.com/news/articles/cmde1lj4yjxno"
+        }
+      ]
+    },
+    {
+      "heading": "Finans",
+      "note": "BIST 100 ve ABD endeksleri: 20 Kasım Cuma kapanışı. Kurlar, ons altın (vadeli), Brent ve ABD vadelileri: Yahoo Finance, son fiyat (hafta sonu, piyasalar kapalı), 19 Kasım kapanışına göre değişim; 21 Kasım ~08:33 (Asia/Famagusta). Gram altın: ons × USD/TRY ÷ 31,1035 ile hesaplandı (piyasa satış fiyatı değil).",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "Değişim"
+        ],
+        "rows": [
+          [
+            "BIST 100 (20 Kas kapanış)",
+            "11.131,30",
+            "-%2,36"
+          ],
+          [
+            "USD/TRY",
+            "50,514",
+            "+%0,10"
+          ],
+          [
+            "EUR/TRY",
+            "55,412",
+            "-%0,14"
+          ],
+          [
+            "GBP/TRY",
+            "66,115",
+            "-%0,56"
+          ],
+          [
+            "EUR/USD",
+            "1,0975",
+            "+%0,03"
+          ],
+          [
+            "GBP/USD",
+            "1,3082",
+            "-%0,49"
+          ],
+          [
+            "EUR/GBP",
+            "0,8381",
+            "+%0,43"
+          ],
+          [
+            "Altın (ons, vadeli)",
+            "$3.515,4",
+            "-%4,62"
+          ],
+          [
+            "Gram altın (hesaplanan)",
+            "5.709 TL",
+            "—"
+          ],
+          [
+            "Brent (vadeli)",
+            "$89,95",
+            "-%2,21"
+          ],
+          [
+            "S&P 500 (20 Kas)",
+            "6.910,39",
+            "-%3,70"
+          ],
+          [
+            "Nasdaq Bileşik (20 Kas)",
+            "22.617,73",
+            "-%5,28"
+          ],
+          [
+            "Dow Jones (20 Kas)",
+            "48.147,33",
+            "-%1,93"
+          ],
+          [
+            "S&P 500 vadeli (Cuma kapanış)",
+            "6.935,00",
+            "-%3,64"
+          ],
+          [
+            "Nasdaq 100 vadeli (Cuma kapanış)",
+            "25.126,50",
+            "-%5,54"
+          ],
+          [
+            "Dow vadeli (Cuma kapanış)",
+            "48.216",
+            "-%1,96"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "Teknoloji hisselerindeki satış Cuma da sürdü: Nasdaq %5'in üzerinde, S&P 500 %3,7 düştü; Anthropic hisseleri halka arz fiyatına doğru geriledi.",
+          "source_label": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c6808ym10vzgo"
+        },
+        {
+          "text": "Ons altın, Fed'in faizi daha agresif artırabileceği beklentisi ve teknoloji satışlarıyla 14 ayın en düşüğüne indi.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/ekonomi/ons-altin-faiz-beklentileri-ve-teknoloji-hisselerindeki-satislarla-14-ayin-en-dusuk-seviyesinde/4132547"
+        },
+        {
+          "text": "Moody's, Türkiye'deki fon gelişmelerinin sistemik risk oluşturmadığını açıkladı. BIST 100 Cuma günü %2,4 düşüşle 11.131'den kapandı.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/ekonomi/moodys-turkiyedeki-fon-gelismelerinin-sistemik-bir-risk-olusturmadigini-belirtti/4132611"
+        }
+      ]
+    },
+    {
+      "heading": "Kripto",
+      "note": "BTC, ETH, SOL, XRP: CoinGecko, 21 Kasım ~08:33 (Asia/Famagusta), 24 saatlik değişim. USDT/TRY: BtcTurk, ~08:33 (günlük değişim).",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "24s"
+        ],
+        "rows": [
+          [
+            "BTC",
+            "$56.064",
+            "-%9,31"
+          ],
+          [
+            "ETH",
+            "$1.567,45",
+            "-%9,97"
+          ],
+          [
+            "SOL",
+            "$65,86",
+            "-%9,43"
+          ],
+          [
+            "XRP",
+            "$0,8703",
+            "-%9,86"
+          ],
+          [
+            "USDT/TRY",
+            "50,861 TL",
+            "+%0,83"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "Bitcoin iki yılın ilk kez 57 bin doların altına indi; ekim zirvesinden (126 bin $+) bu yana düşüş derinleşiyor, kripto bahislerinde 2,4 milyar $ tasfiye yaşandı.",
+          "source_label": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone"
+        },
+        {
+          "text": "Binance, kriptonun en büyük hırsızlığının faillerine karşı 6,5 milyar $'lık dünya çapında dondurma kararı aldı.",
+          "source_label": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft"
+        }
+      ]
+    },
+    {
+      "heading": "Teknoloji",
+      "items": [
+        {
+          "text": "Bending Spoons, e-posta pazarlama platformu Mailchimp'i 3,68 milyar dolara satın alıyor.",
+          "source_label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/"
+        },
+        {
+          "text": "167 yıllık Riemann hipotezine hem bir yapay zekâ hem de bir insan çözüm iddiasıyla çıktı; iddialar doğrulama bekliyor.",
+          "source_label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/"
+        },
+        {
+          "text": "Microsoft, BT yönetimi olmayan kişisel bilgisayarlara Windows 11 26H2'yi otomatik kurmaya başladı.",
+          "source_label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/"
+        }
+      ]
+    },
+    {
+      "heading": "Siber Güvenlik",
+      "items": [
+        {
+          "text": "Banka: J.P. Morgan Chase, bir tedarikçiye yapılan saldırıda bazı müşteri adları ve e-postalarının sızdığını açıkladı; Visa ve Mastercard da üçüncü taraf olaylarını doğruladı. Pratik not: banka adına gelen oltalama e-postalarına dikkat.",
+          "source_label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"
+        },
+        {
+          "text": "F5, uzaktan kod çalıştırmaya izin verebilen beş kritik BIG-IP açığı için acil yama yayımladı. Pratik not: BIG-IP kullananlar hemen güncellemeli.",
+          "source_label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/"
+        },
+        {
+          "text": "WhatsApp, dolandırıcılıkta kullanıldığından şüphelenilen bir Android hatası dahil 3 güvenlik açığını yamaladı. Pratik not: WhatsApp'ı güncelleyin.",
+          "source_label": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html"
+        }
+      ]
+    }
+  ]
+}
