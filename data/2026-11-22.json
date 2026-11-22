@@ -1,0 +1,267 @@
+{
+  "date_label": "22 Kasım 2026 Pazar",
+  "date": "2026-11-22",
+  "updated_at": "Asia/Famagusta ~08:35",
+  "sections": [
+    {
+      "heading": "KKTC",
+      "items": [
+        {
+          "text": "6 Aralık seçimleri öncesi kamuoyu yoklamalarının yayımı için son gün dündü (21 Kasım); bundan sonra anket yayımlamak, ilan etmek ve dağıtmak yasak.",
+          "source_label": "Kıbrıs Postası",
+          "url": "https://www.kibrispostasi.com/c35-KIBRIS_HABERLERI/n620577-secimlerle-ilgili-kamuoyu-yoklamalari-ve-arastirmalari-icin-son-yayim-tarihi-bugun"
+        },
+        {
+          "text": "Türkiye merkezli bir hazır yemek şirketinin KKTC şubesinin sahte faturalarla yaklaşık 100 milyon TL dolandırıldığı soruşturmada 4 ilde 11 şüpheli yakalandı.",
+          "source_label": "TAK",
+          "url": "https://tak.gov.ct.tr/public/haber-detay/yemek-sirketinin-sahte-faturalarla-100-milyon-lira-dolandirilmasina-iliskin-11-supheli-yakalandi-1"
+        },
+        {
+          "text": "Tarım Dairesi'nin haftalık denetiminde ithal ürünler temiz çıktı; yerli maydanoz ve beyaz sarmada tavsiye dışı bitki koruma ürünü tespit edildi, ürünler imha ediliyor.",
+          "source_label": "Yenidüzen",
+          "url": "https://www.yeniduzen.com/yerli-maydanoz-ve-beyaz-sarmada-kalinti-tespit-edildi-201904h.htm"
+        }
+      ]
+    },
+    {
+      "heading": "Türkiye",
+      "items": [
+        {
+          "text": "COP31'de uzlaşı sağlanamadığı için müzakereler uzadı; COP31 Başkanı Bakan Kurum, 'Örtü Kararı' metnini bu sabah 10.00–10.30'da genel kurula getirmeyi hedefliyor.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/gundem/bakan-kurum-sabah-1000-1030-itibariyla-genel-kurulumuza-ortu-kararimizi-getirmek-istiyoruz/4133280"
+        },
+        {
+          "text": "Okullarda ilk ara tatil bitiyor: yaklaşık 17 milyon öğrenci ve 1,2 milyon öğretmen yarın derslere dönüyor.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/gundem/okullarda-ara-tatil-sonrasi-ilk-ders-zili-yarin-calacak/4133306"
+        },
+        {
+          "text": "MSB: Şırnak Şenoba'da silah kazası sonucu bir asker şehit oldu.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/gundem/sirnakta-silah-kazasi-sonucu-bir-asker-sehit-oldu/4133272"
+        }
+      ]
+    },
+    {
+      "heading": "Dünya",
+      "items": [
+        {
+          "text": "İran Devrim Muhafızları, ABD saldırılarına karşılık Bahreyn'deki iki ABD üssünü (radar sistemleri) hedef aldığını açıkladı; Bahreyn bir sanayi tesisinde yangın çıktığını, yaralı olmadığını bildirdi.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/dunya/iran-basini-devrim-muhafizlari-ordusu-bahreyndeki-iki-abd-ussunu-hedef-aldi/4133201"
+        },
+        {
+          "text": "Kaliningrad'a giden Rus kargo gemisi Sparta II, Finlandiya Körfezi'nde drone saldırısına uğrayıp yandı; Finlandiya saldırının büyük olasılıkla Ukrayna kaynaklı olduğunu söyledi.",
+          "source_label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+        },
+        {
+          "text": "Polonya'ya düşen Rus füzeleri sonrası NATO Genel Sekreteri Rutte, ittifakın Polonya topraklarının her santimetresini savunacağını söyledi.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/dunya/nato-genel-sekreteri-rutte-nato-polonya-topraklarinin-her-santimetresini-savunacak/4133215"
+        },
+        {
+          "text": "Ek: Endonezya'nın Banten bölgesinde şekerleme fabrikasındaki yangında en az 3 kişi öldü, 36 kişi kayıp.",
+          "source_label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo"
+        }
+      ]
+    },
+    {
+      "heading": "Finans",
+      "note": "BIST 100 ve ABD endeksleri: 20 Kasım Cuma kapanışı. Kurlar, ons altın (vadeli), Brent ve ABD vadelileri: Yahoo Finance, son fiyat (hafta sonu, piyasalar kapalı), 19 Kasım kapanışına göre değişim; 22 Kasım ~08:33 (Asia/Famagusta). Gram altın: ons × USD/TRY ÷ 31,1035 ile hesaplandı (piyasa satış fiyatı değil).",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "Değişim"
+        ],
+        "rows": [
+          [
+            "BIST 100 (20 Kas kapanış)",
+            "11.131,32",
+            "-%2,36"
+          ],
+          [
+            "USD/TRY",
+            "50,514",
+            "+%0,10"
+          ],
+          [
+            "EUR/TRY",
+            "55,412",
+            "-%0,14"
+          ],
+          [
+            "GBP/TRY",
+            "66,115",
+            "-%0,56"
+          ],
+          [
+            "EUR/USD",
+            "1,0975",
+            "+%0,03"
+          ],
+          [
+            "GBP/USD",
+            "1,3082",
+            "-%0,03"
+          ],
+          [
+            "EUR/GBP",
+            "0,8381",
+            "+%0,43"
+          ],
+          [
+            "Ons altın (vadeli)",
+            "$3.515,4",
+            "-%4,62"
+          ],
+          [
+            "Gram altın (hesaplanan)",
+            "5.709 TL",
+            "—"
+          ],
+          [
+            "Brent",
+            "$89,95",
+            "-%2,21"
+          ],
+          [
+            "S&P 500 (20 Kas)",
+            "6.910,39",
+            "-%3,70"
+          ],
+          [
+            "Nasdaq (20 Kas)",
+            "22.617,73",
+            "-%5,28"
+          ],
+          [
+            "Dow Jones (20 Kas)",
+            "48.147,33",
+            "-%1,93"
+          ],
+          [
+            "S&P 500 vadeli",
+            "6.935",
+            "-%3,64"
+          ],
+          [
+            "Nasdaq 100 vadeli",
+            "25.126,5",
+            "-%5,54"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "Hafta sonu öncesi son seans (Cuma): teknoloji satışı sürdü, Nasdaq %5'in üzerinde, S&P 500 %3,7 düştü; BIST 100 de %2,36 geriledi. Piyasalar Pazartesi açılışına odaklı.",
+          "source_label": "BBC News",
+          "url": "https://www.bbc.com/news/articles/c6808ym10vzgo"
+        },
+        {
+          "text": "Ons altın, Fed'in faizi artırabileceği beklentisi ve teknoloji satışlarıyla 14 ayın en düşüğüne indi; Cuma'yı ~%4,6 kayıpla 3.515 $ civarında kapattı.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/ekonomi/ons-altin-faiz-beklentileri-ve-teknoloji-hisselerindeki-satislarla-14-ayin-en-dusuk-seviyesinde/4132547"
+        }
+      ]
+    },
+    {
+      "heading": "Kripto",
+      "note": "BTC, ETH, SOL, XRP: CoinGecko, 22 Kasım ~08:33 (Asia/Famagusta), 24 saatlik değişim. USDT/TRY: BtcTurk, ~08:33 (günlük değişim).",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "24s"
+        ],
+        "rows": [
+          [
+            "BTC",
+            "$58.909",
+            "+%5,40"
+          ],
+          [
+            "ETH",
+            "$1.655,94",
+            "+%5,88"
+          ],
+          [
+            "SOL",
+            "$68,80",
+            "+%4,59"
+          ],
+          [
+            "XRP",
+            "$0,9145",
+            "+%5,15"
+          ],
+          [
+            "USDT/TRY",
+            "50,774 TL",
+            "-%0,21"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "Bitcoin, 55.130 $ ile iki yılın dibini gördükten sonra Cumartesi %9 toparlanıp 60 bin doları geri aldı; satışta 1,8 milyar $'lık kaldıraçlı pozisyon tasfiye oldu. Sabah itibarıyla ~58,9 bin $.",
+          "source_label": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
+        },
+        {
+          "text": "Hong Kong, kripto lisans kurallarını aracı kurumlar, danışmanlar ve saklama hizmeti verenleri kapsayacak şekilde genişletmeye hazırlanıyor.",
+          "source_label": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians"
+        }
+      ]
+    },
+    {
+      "heading": "Teknoloji",
+      "items": [
+        {
+          "text": "Matematikçi Levent Alpöge'nin yapay zekâ (Claude) desteğiyle ürettiği, Lean'de biçimsel olarak doğrulanan Riemann Hipotezi ispatı için bağımsız matematikçiler 'büyük olasılıkla doğru' diyor; ancak devasa kod tabanını insanların anlaması zor.",
+          "source_label": "Scientific American",
+          "url": "https://www.scientificamerican.com/article/the-ai-riemann-hypothesis-proof-is-almost-certainly-true-independent-mathematicians-attest/"
+        },
+        {
+          "text": "OpenAI, rakiplerin modellerinden akıl yürütmeyi 'damıtmasına' karşı yeni savunmalar açıkladı; GPT-6.2 Astra'da çıkarım başarısı testlerde %54'ten %0,2'ye düştü.",
+          "source_label": "OpenAI",
+          "url": "https://openai.com/index/combatting-adversarial-distillation/"
+        },
+        {
+          "text": "Amazon, New York'taki Teslimat Koruma Yasası'na karşı kampanyasını kargo etiketlerine taşıdı: etiketlerde yasanın sipariş başına 5 $'a kadar maliyet ekleyebileceği yazıyor.",
+          "source_label": "The Verge",
+          "url": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label"
+        }
+      ]
+    },
+    {
+      "heading": "Siber Güvenlik",
+      "items": [
+        {
+          "text": "Microsoft, Entra Connect Health API'deki bir açığın istismar edilerek bazı kiracıların yönetici e-postaları ve yapılandırma bilgilerine erişildiğini bildirdi. Entra kullanan kurumlar Microsoft bildirimlerini kontrol etmeli.",
+          "source_label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/"
+        },
+        {
+          "text": "JPMorgan Chase, bir hizmet sağlayıcısına yapılan saldırıda bazı müşteri adları ve e-postalarının sızdığını açıkladı; Visa ve Mastercard müşterileri de etkilendi. Bankacılık temalı oltalama e-postalarına dikkat.",
+          "source_label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/"
+        },
+        {
+          "text": "Rackspace Spot bulut platformu, ele geçirilmiş kimlik bilgileriyle ihlal edildi; saldırganlar müşteri kümelerindeki Kubernetes secret'larına erişti. Etkilenenler secret'ları yenilemeli.",
+          "source_label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/"
+        },
+        {
+          "text": "Ek: BADBOX 3.0 botneti, enfekte ucuz Android TV kutuları üzerinden günde rekor 40 milyar sahte reklam talebiyle geri döndü. Markasız Android TV kutularından uzak durun.",
+          "source_label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/"
+        }
+      ]
+    }
+  ]
+}
