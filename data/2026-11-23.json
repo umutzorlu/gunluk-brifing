@@ -1,0 +1,267 @@
+{
+  "date_label": "23 Kasım 2026 Pazartesi",
+  "date": "2026-11-23",
+  "updated_at": "Asia/Famagusta ~08:30",
+  "sections": [
+    {
+      "heading": "KKTC",
+      "items": [
+        {
+          "text": "Başbakan Üstel, 11 bin 27 sosyal destek hak sahibine (cemile, sosyal yardım, engelli yardımı, şehit ailesi ve malul gazi transferleri vb.) 23 Kasım'dan itibaren 10 bin TL ödeme yapılacağını açıkladı.",
+          "source_label": "Kıbrıs Postası",
+          "url": "https://www.kibrispostasi.com/c35-KIBRIS_HABERLERI/n620662-basbakan-ustelden-11-bin-27-sosyal-destek-hak-sahibine-23-kasimdan-itibaren-10-bin-tl-odeme"
+        },
+        {
+          "text": "6 Aralık seçimleri öncesi CTP Genel Sekreteri Mehmet Kale Kişi, yurttaşın denemediği tek seçeneğin CTP'nin tek başına iktidarı olduğunu söyledi.",
+          "source_label": "Yenidüzen",
+          "url": "https://www.yeniduzen.com/tek-basina-iktidar-en-ideal-secenek-en-buyuk-olasilik-201967h.htm"
+        },
+        {
+          "text": "Dr. Burhan Nalbantoğlu Devlet Hastanesi'nde genç bir hastanın yaşamını yitirmesinin ardından TIP-İŞ, hastanelerde hasta ve çalışan güvenliği için acil önlem çağrısı yaptı.",
+          "source_label": "Yenidüzen",
+          "url": "https://www.yeniduzen.com/hastanelerde-hasta-ve-calisan-guvenligi-icin-acil-onlem-alinmali-201958h.htm"
+        }
+      ]
+    },
+    {
+      "heading": "Türkiye",
+      "items": [
+        {
+          "text": "Antalya'daki BM iklim konferansı COP31, uzayan müzakerelere rağmen uzlaşı çıkmadan 22 Kasım akşamı sona erdi; 'Antalya Paktı' kabul edilmedi.",
+          "source_label": "Yenidüzen",
+          "url": "https://www.yeniduzen.com/cop31-sona-erdi-antalya-pakti-kabul-edilmedi-201966h.htm"
+        },
+        {
+          "text": "İlk ara tatil bitti: yaklaşık 17 milyon öğrenci ve 1,2 milyon öğretmen bu sabah derse başladı.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/gundem/okullarda-ara-tatil-sonrasi-ilk-ders-zili-caldi/4133925"
+        },
+        {
+          "text": "İstanbul'da bir suç örgütüne yönelik operasyonda 51 şüpheli gözaltına alındı.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/gundem/istanbulda-suc-orgutu-operasyonunda-51-supheli-yakalandi-/4133923"
+        }
+      ]
+    },
+    {
+      "heading": "Dünya",
+      "items": [
+        {
+          "text": "ABD'de Demokratlar, Kuzey Carolina'daki bir sandalyeyi de alarak 1992'den bu yana Temsilciler Meclisi'ndeki en büyük çoğunluğa ulaştı.",
+          "source_label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno"
+        },
+        {
+          "text": "Libya'da bir limandaki Rus gemisinde patlama oldu; yetkililer olayın muhtemel bir drone saldırısından kaynaklandığını söylüyor.",
+          "source_label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo"
+        },
+        {
+          "text": "Rusya'nın Kiev'e saldırısının ardından 7 yaşındaki bir çocuk saatler sonra enkazdan sağ çıkarıldı; kayıplar için arama sürüyor.",
+          "source_label": "BBC News",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go"
+        }
+      ]
+    },
+    {
+      "heading": "Finans",
+      "note": "BIST 100: 20 Kasım Cuma kapanışı (değişim AA). ABD endeksleri: 20 Kasım kapanışı. Kurlar, ons altın (vadeli), Brent ve ABD vadelileri: Yahoo Finance, 23 Kasım ~08:25 (Asia/Famagusta), önceki kapanışa göre değişim. Gram altın: ons × USD/TRY ÷ 31,1035 ile hesaplandı (piyasa satış fiyatı değil).",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "Değişim"
+        ],
+        "rows": [
+          [
+            "BIST 100 (20 Kas kapanış)",
+            "11.131,32",
+            "-%2,36"
+          ],
+          [
+            "USD/TRY",
+            "50,594",
+            "+%0,16"
+          ],
+          [
+            "EUR/TRY",
+            "55,654",
+            "+%0,44"
+          ],
+          [
+            "GBP/TRY",
+            "66,410",
+            "+%0,45"
+          ],
+          [
+            "EUR/USD",
+            "1,0999",
+            "+%0,22"
+          ],
+          [
+            "GBP/USD",
+            "1,3124",
+            "+%0,32"
+          ],
+          [
+            "EUR/GBP",
+            "0,8378",
+            "-%0,04"
+          ],
+          [
+            "Ons altın (vadeli)",
+            "$3.617,7",
+            "+%2,91"
+          ],
+          [
+            "Gram altın (hesaplanan)",
+            "5.885 TL",
+            "—"
+          ],
+          [
+            "Brent",
+            "$89,84",
+            "-%0,12"
+          ],
+          [
+            "S&P 500 (20 Kas)",
+            "6.910,39",
+            "-%3,70"
+          ],
+          [
+            "Nasdaq (20 Kas)",
+            "22.617,73",
+            "-%5,28"
+          ],
+          [
+            "Dow Jones (20 Kas)",
+            "48.147,33",
+            "-%1,93"
+          ],
+          [
+            "S&P 500 vadeli",
+            "7.081,75",
+            "+%2,12"
+          ],
+          [
+            "Nasdaq 100 vadeli",
+            "25.886,25",
+            "+%3,02"
+          ],
+          [
+            "Dow vadeli",
+            "48.915",
+            "+%1,45"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "Yeni haftada Asya'da teknoloji hisselerinde satış sürerken ABD vadelileri pozitif; Fed'in sıkılaşmayı hızlandırabileceği endişesi ve yapay zekâ yatırımlarının getirisine dair soru işaretleri gündemde.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-yeni-haftada-yon-arayisi-one-cikiyor/4133949"
+        },
+        {
+          "text": "Geçen hafta BIST hisseleri %6,01, gram altın %7,60 değer kaybetti; dolar/TL %0,42 yükseldi.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4132415"
+        }
+      ]
+    },
+    {
+      "heading": "Kripto",
+      "note": "BTC, ETH, SOL, XRP: CoinGecko, 23 Kasım ~08:25 (Asia/Famagusta), 24 saatlik değişim. USDT/TRY: BtcTurk, ~08:25 (günlük değişim).",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "24s"
+        ],
+        "rows": [
+          [
+            "BTC",
+            "$61.436",
+            "+%4,30"
+          ],
+          [
+            "ETH",
+            "$1.721,62",
+            "+%3,96"
+          ],
+          [
+            "SOL",
+            "$71,70",
+            "+%4,24"
+          ],
+          [
+            "XRP",
+            "$0,9400",
+            "+%2,79"
+          ],
+          [
+            "USDT/TRY",
+            "50,596 TL",
+            "-%0,35"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "Kraken'in Kanada doları piyasasında Cumartesi sabahı BTC kısa süreliğine ~17.000 $'a (24.250 CAD) düştü; Kraken güvenlik ihlali olmadığını ve işlemleri geri almayacağını söyledi.",
+          "source_label": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand"
+        },
+        {
+          "text": "BTC, iki yılın dibinden %9 toparlanıp 60 bin doları geri aldı; bu sabah ~61,4 bin $ seviyesinde.",
+          "source_label": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open"
+        },
+        {
+          "text": "Kuantum riskine karşı uyarı: Ekim itibarıyla 6 milyondan fazla BTC'nin (arzın %31,2'si) açık anahtarı görünür; köprü ve saklama sistemleri de güncelleme gerektiriyor.",
+          "source_label": "CoinDesk",
+          "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins"
+        }
+      ]
+    },
+    {
+      "heading": "Teknoloji",
+      "items": [
+        {
+          "text": "Bending Spoons, e-posta pazarlama platformu Mailchimp'i 3,68 milyar dolara satın alıyor.",
+          "source_label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/"
+        },
+        {
+          "text": "Signal, işletim sistemlerine gömülen ajan tipi yapay zekâyı 'varoluşsal tehdit' olarak nitelendirip mobilde ekran görüntüsü almayı kısıtlıyor; Siri ve Gemini'nin sohbetleri yakalaması engellenecek.",
+          "source_label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/"
+        },
+        {
+          "text": "OpenAI baş bilimcisi Jakub Pachocki, yapay zekâ gelişimine olası sınırlar üzerine bir yazı yayımladı; tartışma Anthropic'in halka arz belgesindeki risk uyarılarıyla alevlenmişti.",
+          "source_label": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/"
+        }
+      ]
+    },
+    {
+      "heading": "Siber Güvenlik",
+      "items": [
+        {
+          "text": "GL.iNet, GoodCloud uzaktan yönetim servisindeki bir açığın istismar edilerek router ve KVM cihazlarına arka kapı yüklendiğini doğruladı. Kullanıyorsanız: bulut erişimini kapatın, firmware'i güncelleyin.",
+          "source_label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/"
+        },
+        {
+          "text": "F5, BIG-IP APM ve iRules'ta kimlik doğrulamasız uzaktan kod çalıştırmaya izin veren 5 kritik açık için acil yama yayımladı. Bankalar/kurumlar: hemen yamalayın.",
+          "source_label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/"
+        },
+        {
+          "text": "Bell Canada, 17 Kasım'da 'ajan tipi' (AI destekli) bir saldırganın sistemlerine sızıp kurumsal müşteri verilerini çaldığını doğruladı.",
+          "source_label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/"
+        }
+      ]
+    }
+  ]
+}
