@@ -1,0 +1,257 @@
+{
+  "date_label": "24 Kasım 2026 Salı",
+  "date": "2026-11-24",
+  "updated_at": "Asia/Famagusta ~08:30",
+  "sections": [
+    {
+      "heading": "KKTC",
+      "items": [
+        {
+          "text": "UBP'nin Vizyon 2033 / Yeni Maraş projesi kapsamında Gazimağusa'daki 2.880 dönümlük Gülseren Kışlası alanı sivil kullanıma açılacak; dört kilometrelik sahil ücretsiz olarak halka açılacak.",
+          "source_label": "Kıbrıs Postası",
+          "url": "https://www.kibrispostasi.com/c88-GAZIMAGUSA/n620814-yeni-maras-projesiyle-gulserende-dort-kilometrelik-sahil-halka-acilacak"
+        },
+        {
+          "text": "6 Aralık seçimleri öncesi koalisyonda gerilim: YDP lideri Erhan Arıklı, UBP'yi koalisyon ortaklarını ezmek ve icraatları kendine mal etmekle suçladı.",
+          "source_label": "Kıbrıs Postası",
+          "url": "https://www.kibrispostasi.com/c35-KIBRIS_HABERLERI/n620820-arikli-ubpyi-koalisyon-ortaklarini-ezmekle-ve-icraatlarini-kendine-mal-etmekle-sucladi"
+        },
+        {
+          "text": "İtfaiye raporuna göre 16–22 Kasım'da 12 yangın ve 22 özel servis olayı yaşandı; yangınların zararı 4 milyon 476 bin TL.",
+          "source_label": "Yenidüzen",
+          "url": "https://www.yeniduzen.com/1-haftada-12-yangin-meydana-geldi-202000h.htm"
+        }
+      ]
+    },
+    {
+      "heading": "Türkiye",
+      "items": [
+        {
+          "text": "Cumhurbaşkanı Erdoğan, Kabine sonrası fon soruşturmasında ekonomi yönetimi ve Adalet Bakanlığı'nın yoğun çalıştığını, sorunun bir an önce çözülmesini istediklerini söyledi.",
+          "source_label": "Hürriyet",
+          "url": "https://www.hurriyet.com.tr/gundem/fon-sorusturmasi-bir-an-once-cozulmesini-istiyoruz-43388626"
+        },
+        {
+          "text": "İstanbul Valiliği, Sarıyer Uskumruköy'deki 'aslan' ihbarı sonrası yapılan aramalarda somut bulguya rastlanmadığını, görüntüdeki hayvanın aslan ya da büyük kedi olmadığını açıkladı.",
+          "source_label": "Anadolu Ajansı",
+          "url": "https://www.aa.com.tr/tr/gundem/istanbul-valiligi-saha-calismalarinda-bolgede-aslan-bulunduguna-dair-somut-bir-bulguya-rastlanmamistir/4133918"
+        },
+        {
+          "text": "Meteoroloji ülke genelinde yağış bekliyor; özellikle Karadeniz'de sel ve su baskını riskine karşı uyarı var.",
+          "source_label": "CNN Türk",
+          "url": "https://www.cnnturk.com/hava-durumu/cnn-turk-hava-durumu/hava-durumu-24-11-2026-3497104"
+        }
+      ]
+    },
+    {
+      "heading": "Dünya",
+      "items": [
+        {
+          "text": "Üç Rus seyir füzesinin Polonya topraklarına düşmesinin ardından NATO, Polonya'ya AWACS erken uyarı uçağı konuşlandırıyor.",
+          "source_label": "Reuters",
+          "url": "https://www.reuters.com/3fec1b0a85a0/business/aerospace-defense/nato-send-early-warning-system-aircraft-poland-after-missiles-incident-2026-11-23/"
+        },
+        {
+          "text": "Zelenskiy, Ukrayna'nın deniz dronlarıyla Libya'nın Bingazi limanındaki Rus korveti Merkury'yi vurduğunu doğruladı; savaşın cephesi Akdeniz'e uzanıyor.",
+          "source_label": "AP News",
+          "url": "https://apnews.com/article/ukraine-russia-zelenskyy-warship-attack-libya-c382f8eb06dca7d87e89bc6c18ba7d61"
+        },
+        {
+          "text": "ABD Hazinesi, İran'ın gölge bankacılık ağlarına yönelik yeni yaptırımlarla döviz büroları ve paravan şirketleri hedef aldı; listede Dubai, Hong Kong ve Türkiye'deki şirketler de var.",
+          "source_label": "ABD Hazinesi",
+          "url": "https://home.treasury.gov/news/press-releases/sb0699"
+        }
+      ]
+    },
+    {
+      "heading": "Finans",
+      "note": "BIST 100: 23 Kasım kapanışı. Kurlar, ons altın (vadeli) ve ABD vadelileri: Yahoo Finance, 24 Kasım ~08:30 (Asia/Famagusta), önceki kapanışa göre. Brent: CNBC, 24 Kasım sabahı. Gram altın: ons × USD/TRY ÷ 31,1035 ile hesaplandı (piyasa satış fiyatı değil).",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "Değişim"
+        ],
+        "rows": [
+          [
+            "BIST 100 (23 Kas kapanış)",
+            "11.104,38",
+            "-%0,24"
+          ],
+          [
+            "USD/TRY",
+            "50,597",
+            "+%0,04"
+          ],
+          [
+            "EUR/TRY",
+            "55,323",
+            "-%0,38"
+          ],
+          [
+            "GBP/TRY",
+            "66,013",
+            "-%0,40"
+          ],
+          [
+            "EUR/USD",
+            "1,0913",
+            "-%0,54"
+          ],
+          [
+            "GBP/USD",
+            "1,3045",
+            "-%0,38"
+          ],
+          [
+            "EUR/GBP",
+            "0,8364",
+            "-%0,17"
+          ],
+          [
+            "Ons altın (vadeli, $)",
+            "3.623,2",
+            "-%0,77"
+          ],
+          [
+            "Gram altın (hesaplanan, TL)",
+            "5.894",
+            "-%0,73"
+          ],
+          [
+            "Brent ($/varil, CNBC)",
+            "~89",
+            "-%0,4"
+          ],
+          [
+            "S&P 500 vadeli",
+            "7.265,00",
+            "+%0,14"
+          ],
+          [
+            "Nasdaq 100 vadeli",
+            "26.842,50",
+            "+%0,13"
+          ],
+          [
+            "Dow vadeli",
+            "49.740",
+            "+%0,13"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "Jensen Huang'ın Nvidia CEO'luğuna dönüşü Wall Street'te yapay zekâ odaklı rallimi tetikledi; ABD vadelileri bu sabah da hafif artıda.",
+          "source_label": "U.S. News / Reuters",
+          "url": "https://money.usnews.com/investing/news/articles/2026-11-24/morning-bid-huang-is-back-so-is-the-rally"
+        },
+        {
+          "text": "Petrol, artan arz ve fazla beklentisiyle üç ayın dibine yakın seyrediyor; Hürmüz riski fiyatları desteklemeye yetmiyor.",
+          "source_label": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/24/oil-wti-brent-hormuz-supply.html"
+        },
+        {
+          "text": "BIST 100 dün %0,24 düşüşle 11.104,38 puandan kapandı; işlem hacmi 113,6 milyar TL.",
+          "source_label": "Haberler.com",
+          "url": "https://www.haberler.com/ekonomi/bist-100-gunu-yuzde-0-24-kayipla-11-104-38-puandan-20454877-haberi/"
+        }
+      ]
+    },
+    {
+      "heading": "Kripto",
+      "note": "BTC, ETH, SOL, XRP ve USDT/TRY: CoinGecko, 24 Kasım ~08:30 (Asia/Famagusta), 24 saatlik değişim.",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "24s"
+        ],
+        "rows": [
+          [
+            "BTC",
+            "$60.358",
+            "-%1,82"
+          ],
+          [
+            "ETH",
+            "$1.697,42",
+            "-%1,38"
+          ],
+          [
+            "SOL",
+            "$71,48",
+            "-%0,34"
+          ],
+          [
+            "XRP",
+            "$0,9490",
+            "+%1,06"
+          ],
+          [
+            "USDT/TRY",
+            "50,58 TL",
+            "+%0,08"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "ABD spot Bitcoin ETF'leri 16–20 Kasım haftasında 1,79 milyar dolar net çıkış gördü; dördüncü üst üste haftalık çıkış.",
+          "source_label": "The Block",
+          "url": "https://www.theblock.co/news/markets/2026-11-23-spot-bitcoin-etfs-shed-1-79-billion-in-past-week-444857"
+        },
+        {
+          "text": "BTC, Nvidia kaynaklı rallide kısa süre 64.500 doların üzerine çıktıktan sonra yeniden 60 bin dolar civarına geriledi.",
+          "source_label": "The Block",
+          "url": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-60000-jensen-huang-fizzles-445472"
+        }
+      ]
+    },
+    {
+      "heading": "Teknoloji",
+      "items": [
+        {
+          "text": "Nvidia yönetim kurulu, Jensen Huang'ı derhal geçerli olmak üzere yeniden CEO olarak göreve getirdi.",
+          "source_label": "Reuters",
+          "url": "https://www.reuters.com/3fec1b0a85a0/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/"
+        },
+        {
+          "text": "CrowdStrike, rakibi Zscaler'ı yaklaşık 43,9 milyar dolarlık tamamen hisse bazlı anlaşmayla satın alıyor; siber güvenlik tarihinin en büyük anlaşmalarından biri.",
+          "source_label": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/23/crowdstrike-to-buy-zscaler.html"
+        },
+        {
+          "text": "Signal, iOS ve Android'de Siri ve Gemini gibi yapay zekâ asistanlarının sohbet ekranını okumasını varsayılan olarak engelliyor.",
+          "source_label": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app"
+        }
+      ]
+    },
+    {
+      "heading": "Siber Güvenlik",
+      "items": [
+        {
+          "text": "Azure API Management (Classic) açığı, müşterilerin API anahtarları ve gizli bilgilerini çalmak için istismar edildi; Microsoft 19 Kasım'da yamaladı. Azure APIM kullananlar tüm anahtarları yenilemeli.",
+          "source_label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/"
+        },
+        {
+          "text": "CISA, aktif istismar edilen kritik Cisco Expressway RCE açığını (CVE-2026-76466, CVSS 9,8) KEV kataloğuna ekledi; geçici çözüm yok, hemen güncelleyin.",
+          "source_label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/"
+        },
+        {
+          "text": "Güney Kore elektrik şirketi KEPCO, banka ve kart bilgileri dahil yaklaşık 1,5 milyon kişinin verilerinin sızdırıldığını doğruladı.",
+          "source_label": "BleepingComputer",
+          "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/"
+        },
+        {
+          "text": "Hindistan CERT-In: Yapay zekâ destekli saldırganlar bankalar ve fintech'lerde alıcı kayıtlarını değiştirip yasal ödeme akışlarıyla yetkisiz transfer yaptırıyor. Ödeme talimatlarını bağımsız kanaldan doğrulayın.",
+          "source_label": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html"
+        }
+      ]
+    }
+  ]
+}
