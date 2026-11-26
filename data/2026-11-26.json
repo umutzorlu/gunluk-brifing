@@ -1,0 +1,292 @@
+{
+  "date_label": "26 Kasım 2026 Perşembe",
+  "date": "2026-11-26",
+  "updated_at": "Asia/Famagusta ~08:30",
+  "sections": [
+    {
+      "heading": "KKTC",
+      "items": [
+        {
+          "text": "KKTC'de şubesi bulunan bazı Türkiye merkezli bankalar, 19 Kasım'da döviz bürolarının hesaplarını gerekçe göstermeden tek taraflı kapattı ve yeni hesap açılışlarını durdurdu; adım kripto bağlantılı riskle ilişkilendiriliyor.",
+          "source_label": "Yenidüzen",
+          "url": "https://www.yeniduzen.com/doviz-burolarina-kripto-darbe-202081h.htm"
+        },
+        {
+          "text": "Filo Jet gemi faciası soruşturmasında tutuklu kaptan, kaptan yardımcısı, 6 mürettebat ve Filo Denizcilik direktörü teminat talebiyle yeniden mahkemeye çıkarıldı.",
+          "source_label": "Yenidüzen",
+          "url": "https://www.yeniduzen.com/filo-denizcilikte-direktor-oldugu-faciadan-sonra-ortaya-cikti-202080h.htm"
+        },
+        {
+          "text": "Ekonomi ve Enerji Bakanı Hasan Taçoy akaryakıt fiyatlarında indirime gidildiğini açıkladı.",
+          "source_label": "Yenidüzen",
+          "url": "https://www.yeniduzen.com/akaryakitta-indirim-202073h.htm"
+        },
+        {
+          "text": "6 Aralık seçimleri öncesi Başbakan ve UBP Genel Başkanı Ünal Üstel, seçim gündemini UBP'nin projeleri ve reform önerilerinin belirlediğini söyledi.",
+          "source_label": "Havadis",
+          "url": "https://www.havadiskibris.com/ustel-secim-gundemini-ubpnin-acikladigi-projeler-yasa-onerileri-ve-reformlar-belirliyor/"
+        }
+      ]
+    },
+    {
+      "heading": "Türkiye",
+      "items": [
+        {
+          "text": "Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek bugün fon soruşturmasına ilişkin ortak basın toplantısı düzenleyecek.",
+          "source_label": "BBC Türkçe",
+          "url": "https://www.bbc.com/turkce/articles/ckedqgjqw1d4o"
+        },
+        {
+          "text": "Anayasa Mahkemesi, Ekrem İmamoğlu'nun tutukluluğuna ilişkin bireysel başvuruyu değerlendirecek; ancak \"casusluk\" davasındaki ayrı tutukluluk tedbiri sürüyor.",
+          "source_label": "BBC Türkçe",
+          "url": "https://www.bbc.com/turkce/articles/ckedqgw8xp2jo"
+        },
+        {
+          "text": "Cumhurbaşkanı Erdoğan, Libya Ulusal Ordusu Komutanı Halife Hafter'i basına kapalı görüşmede kabul etti; görüşmeye Fidan, Güler ve MİT Başkanı da katıldı.",
+          "source_label": "Havadis",
+          "url": "https://www.havadiskibris.com/erdogan-libya-ulusal-ordusu-genel-komutani-hafteri-kabul-etti/"
+        },
+        {
+          "text": "Yeni Parti Genel Başkanı Özgür Özel, CHP dönemindeki geniş MYK yapısını yeni partisine taşıyarak yönetimini belirledi.",
+          "source_label": "BBC Türkçe",
+          "url": "https://www.bbc.com/turkce/articles/cmrlg02zkp6xo"
+        }
+      ]
+    },
+    {
+      "heading": "Dünya",
+      "items": [
+        {
+          "text": "ABD, Çin ve AB dahil 14 ticaret ortağına haksız ticaret uygulamaları gerekçesiyle yeni gümrük vergileri önerdi.",
+          "source_label": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+        },
+        {
+          "text": "Kahire'de bir çevre yolunda devrilen akaryakıt tankerinin yol açtığı büyük yangında 31 kişi öldü, 21 kişi yaralandı.",
+          "source_label": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o"
+        },
+        {
+          "text": "İsrailli yargıçlar Netanyahu'ya yönelik en ağır suçlamaların düşürülmesini tavsiye etti; Netanyahu davanın tamamen sona ermesi gerektiğini savunuyor.",
+          "source_label": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o"
+        },
+        {
+          "text": "Kuzey Kore lideri Kim Jong Un nükleer cephaneliğin genişletilmesi ve taktik nükleer silahların daha yaygın kullanımı çağrısı yaptı.",
+          "source_label": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html"
+        }
+      ]
+    },
+    {
+      "heading": "Finans",
+      "note": "BIST 100: 25 Kasım kapanışı. Kurlar, ons altın, Brent ve ABD vadelileri: Yahoo Finance, 26 Kasım ~08:28 (Asia/Famagusta), önceki kapanışa göre. ABD endeksleri: 25 Kasım kapanışı; ABD piyasaları 26 Kasım Şükran Günü nedeniyle kapalı. Gram altın: ons × USD/TRY ÷ 31,1035 ile hesaplandı (piyasa satış fiyatı değil).",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "Değişim"
+        ],
+        "rows": [
+          [
+            "BIST 100 (25 Kas kapanış)",
+            "10.655,74",
+            "-%2,83"
+          ],
+          [
+            "USD/TRY",
+            "50,674",
+            "+%0,01"
+          ],
+          [
+            "EUR/TRY",
+            "55,712",
+            "+%0,30"
+          ],
+          [
+            "GBP/TRY",
+            "66,394",
+            "-%0,06"
+          ],
+          [
+            "EUR/USD",
+            "1,0967",
+            "+%0,05"
+          ],
+          [
+            "GBP/USD",
+            "1,3103",
+            "-%0,07"
+          ],
+          [
+            "EUR/GBP",
+            "0,8368",
+            "+%0,10"
+          ],
+          [
+            "Ons altın (vadeli)",
+            "$3.592,7",
+            "+%1,61"
+          ],
+          [
+            "Gram altın (hesaplanan)",
+            "≈5.853 TL",
+            "—"
+          ],
+          [
+            "Brent (vadeli)",
+            "$91,00",
+            "-%3,82"
+          ],
+          [
+            "S&P 500 (25 Kas kapanış)",
+            "7.182,78",
+            "-%0,25"
+          ],
+          [
+            "Nasdaq (25 Kas kapanış)",
+            "23.585,80",
+            "-%0,62"
+          ],
+          [
+            "Dow Jones (25 Kas kapanış)",
+            "50.182,95",
+            "+%0,33"
+          ],
+          [
+            "S&P 500 vadeli",
+            "7.221,25",
+            "+%0,35"
+          ],
+          [
+            "Nasdaq 100 vadeli",
+            "26.221,00",
+            "+%0,46"
+          ],
+          [
+            "Dow vadeli",
+            "50.314",
+            "+%0,17"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "Yapay zekâ endişeleriyle ABD borsalarında satış sürdü; Nasdaq gün içinde yaklaşık %4'e varan düşüş gördü. BIST 100 de dün %2,8 geriledi.",
+          "source_label": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo"
+        },
+        {
+          "text": "S&P Global, \"artan\" yönetim ve yönetişim riski gerekçesiyle Nvidia'nın kredi notunu bir kademe düşürebileceği uyarısında bulundu.",
+          "source_label": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html"
+        },
+        {
+          "text": "Asya'da teknoloji toparlanmasıyla Kospi öncülüğünde yükseliş var; yatırımcılar yeni ABD tarifelerini şimdilik göz ardı ediyor. ABD piyasaları bugün Şükran Günü nedeniyle kapalı.",
+          "source_label": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/26/stock-markets-today-.html"
+        }
+      ]
+    },
+    {
+      "heading": "Kripto",
+      "note": "BTC, ETH, SOL, XRP ve USDT/TRY: CoinGecko, 26 Kasım ~08:28 (Asia/Famagusta), 24 saatlik değişim.",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "24s"
+        ],
+        "rows": [
+          [
+            "BTC",
+            "$60.525",
+            "+%2,64"
+          ],
+          [
+            "ETH",
+            "$1.686,28",
+            "+%1,99"
+          ],
+          [
+            "SOL",
+            "$70,76",
+            "+%3,35"
+          ],
+          [
+            "XRP",
+            "$0,9532",
+            "+%4,11"
+          ],
+          [
+            "USDT/TRY",
+            "50,63 TL",
+            "-%0,04"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "Sahte internet rotası (BGP) ile 1.000'den fazla Bitcoin madencisi bir saldırganın sahte havuzuna yönlendirildi; büyük havuzların çoğunda aynı zayıflık bulunuyor.",
+          "source_label": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/11/26/hackers-hijacked-1-000-plus-bitcoin-mines-in-one-second-by-faking-internet-routes"
+        },
+        {
+          "text": "ABD hükümetinin elindeki bitcoinleri 20 yıl kilitleyecek Stratejik Bitcoin Rezervi tasarısı komisyondan geçti, Temsilciler Meclisi oylamasına hazır.",
+          "source_label": "CoinDesk",
+          "url": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house"
+        },
+        {
+          "text": "Fransız Senatosu, eleştirmenlerin adam kaçırma riski yaratacağını söylediği yeni kripto vergisini ve cüzdan listesini engelledi.",
+          "source_label": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk"
+        }
+      ]
+    },
+    {
+      "heading": "Teknoloji",
+      "items": [
+        {
+          "text": "FCC, SpaceX'in \"Starmind\" girişimi kapsamında yapay zekâ çipli 1 milyona kadar veri merkezi uydusu fırlatmasına onay verdi; Amazon itiraz etmişti.",
+          "source_label": "The Verge",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+        },
+        {
+          "text": "WhatsApp, bireysel ve grup sohbetlerinde mesaj zamanlama özelliğini kullanıma sunuyor.",
+          "source_label": "The Verge",
+          "url": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages"
+        },
+        {
+          "text": "ABD Başkan Yardımcısı Vance, Nvidia CEO'su Jensen Huang'ın DOJ soruşturması altında olmadığı güvencesi aldığını söyledi.",
+          "source_label": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html"
+        }
+      ]
+    },
+    {
+      "heading": "Siber Güvenlik",
+      "items": [
+        {
+          "text": "1Password, GitHub hesabı üzerinden arka uç sistemlerine sızıldığını açıkladı: bazı müşteri bilgileri ve kaynak kod çalındı, kasalar ve parolalar etkilenmedi. Kullanıcıların 1Password adına gelen oltalama e-postalarına dikkat etmesi önerilir.",
+          "source_label": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html"
+        },
+        {
+          "text": "CISA, aktif istismar edilen kritik Drupal core RCE açığı \"Fail2Install\"ı (CVE-2026-132165, CVSS 9.8) KEV kataloğuna ekledi. Drupal siteleri hemen güncellenmeli.",
+          "source_label": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html"
+        },
+        {
+          "text": "GeoServer'da yeni yamalanan iki açık (CVE-2026-120705, CVE-2026-129243) aktif olarak istismar ediliyor; GeoServer kullananlar yamayı uygulamalı.",
+          "source_label": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html"
+        },
+        {
+          "text": "Bankaların şüpheli işlem bildirimlerini toplayan ABD Hazinesi birimi FinCEN, siber saldırı sonrası bazı sistemlerini çevrimdışı aldı.",
+          "source_label": "The Hacker News",
+          "url": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html"
+        }
+      ]
+    }
+  ]
+}
