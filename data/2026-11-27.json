@@ -1,0 +1,287 @@
+{
+  "date_label": "27 Kasım 2026 Cuma",
+  "date": "2026-11-27",
+  "updated_at": "Asia/Famagusta ~08:30",
+  "sections": [
+    {
+      "heading": "KKTC",
+      "items": [
+        {
+          "text": "Filo Jet gemi faciası soruşturmasında tutuklu 9 zanlının dört gün süren teminat duruşması tamamlandı; karar bugün saat 15.00'te Girne Kaza Mahkemesi'nde açıklanacak.",
+          "source_label": "Havadis — Filo Jet: teminat kararı bugün",
+          "url": "https://www.havadiskibris.com/filo-jet-sorusturmasi-dort-gundur-suren-teminat-durusmasinda-karar-yarin-aciklanacak/"
+        },
+        {
+          "text": "Karayolları Dairesi, çalışmalar nedeniyle Girne-Değirmenlik Dağ Yolu'nun kapalı kalma süresini 31 Aralık'a kadar uzattı; Girne bölgesinde alternatif güzergâh planlamak gerekiyor.",
+          "source_label": "Yenidüzen — Girne-Değirmenlik Dağ Yolu 31 Aralık'a kadar kapalı",
+          "url": "https://www.yeniduzen.com/girne-degirmenlik-dag-yolu-31-aralika-kadar-kapali-kalacak-202103h.htm"
+        },
+        {
+          "text": "Avrupa Parlamentosu, Türkiye-Libya deniz yetki alanları mutabakatını \"hükümsüz ve geçersiz\" ilan ederek Yunanistan ve Kıbrıs Cumhuriyeti ile dayanışma mesajı verdi ve gerekirse hedefli yaptırım istedi.",
+          "source_label": "Yenidüzen — \"Mutabakat geçersiz ve hükümsüzdür\"",
+          "url": "https://www.yeniduzen.com/mutabakat-gecersiz-ve-hukumsuzdur-202111h.htm"
+        }
+      ]
+    },
+    {
+      "heading": "Türkiye",
+      "items": [
+        {
+          "text": "Şahap Kavcıoğlu'nun fon kriziyle ilgili iddialar nedeniyle istifasının ardından BDDK Başkanlığı'na Yusuf Kenan Bağır atandı.",
+          "source_label": "BBC Türkçe — BDDK Başkanlığı'na Yusuf Kenan Bağır atandı",
+          "url": "https://www.bbc.com/turkce/articles/c5742lzd1m20o"
+        },
+        {
+          "text": "Üç bakanın fon krizi basın toplantısında, tasfiyeye alınan 131 fonun 455.758 yatırımcısına ödemeler ele alındı; Adalet Bakanı Gürlek iddianamenin yazılmakta olduğunu söyledi.",
+          "source_label": "BBC Türkçe — Fon krizi basın toplantısından neler öğrendik?",
+          "url": "https://www.bbc.com/turkce/articles/cmrlgzxy0rp6o"
+        },
+        {
+          "text": "MGK toplantısının ardından yapılan açıklamada \"PKK'nın silah bıraktığını teyit\" ifadesi yer almadı.",
+          "source_label": "BBC Türkçe — MGK'dan 'silah bırakma teyidi' çıkmadı",
+          "url": "https://www.bbc.com/turkce/articles/c63rg9vy987qo"
+        },
+        {
+          "text": "Türkiye, Avrupa Parlamentosu'nun Türkiye-Libya mutabakatına karşı aldığı karara tepki gösterdi.",
+          "source_label": "Kıbrıs Gazetesi — Türkiye'den AP kararına tepki",
+          "url": "https://kibrisgazetesi.com/turkiyeden-avrupa-parlamentosu-kararina-tepki/"
+        }
+      ]
+    },
+    {
+      "heading": "Dünya",
+      "items": [
+        {
+          "text": "Kuveyt'teki bir İHA saldırısında iki İtalyan öldü, İran sorumluluğu reddetti; Trump İran savaşının \"istediğim zaman\" biteceğini söyledi.",
+          "source_label": "CNBC — Kuveyt saldırısı ve Trump'ın İran açıklaması",
+          "url": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html"
+        },
+        {
+          "text": "Zelenski BBC'ye, ABD'nin Orta Doğu'ya fazla odaklandığını ve Rusya'ya yeterince baskı yapmadığını söyledi.",
+          "source_label": "BBC News — Zelensky: US not pushing Russia hard enough",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo"
+        },
+        {
+          "text": "ABD'de Şükran Günü fırtınası sel ve uçuş iptallerine yol açtı; yaklaşık 1 milyon abone elektriksiz kaldı.",
+          "source_label": "BBC News — Major Thanksgiving storm hits US",
+          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o"
+        },
+        {
+          "text": "AB liderleri yeni uzun dönemli bütçe üzerinde anlaşma sağlayamadı.",
+          "source_label": "Anadolu Ajansı — AB liderleri bütçede anlaşamadı",
+          "url": "https://www.aa.com.tr/tr/dunya/ab-liderleri-yeni-butcede-anlasma-saglayamadi/4139892"
+        }
+      ]
+    },
+    {
+      "heading": "Finans",
+      "note": "BIST 100: 26 Kasım kapanışı. Kurlar: Yahoo Finance, 27 Kasım ~08:29 (Asia/Famagusta), önceki kapanışa göre. Ons altın, Brent ve ABD vadelileri: Yahoo Finance ~08:29, 25 Kasım kapanışına göre (Şükran Günü tatili). ABD endeksleri: 25 Kasım kapanışı. Gram altın: ons × USD/TRY ÷ 31,1035 ile hesaplandı (piyasa satış fiyatı değil).",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "Değişim"
+        ],
+        "rows": [
+          [
+            "BIST 100 (26 Kas kapanış)",
+            "10.743,10",
+            "+%0,82"
+          ],
+          [
+            "USD/TRY",
+            "50,731",
+            "+%0,11"
+          ],
+          [
+            "EUR/TRY",
+            "55,745",
+            "-%0,03"
+          ],
+          [
+            "GBP/TRY",
+            "66,605",
+            "-%0,05"
+          ],
+          [
+            "EUR/USD",
+            "1,0984",
+            "+%0,13"
+          ],
+          [
+            "GBP/USD",
+            "1,3130",
+            "+%0,13"
+          ],
+          [
+            "EUR/GBP",
+            "0,8365",
+            "-%0,02"
+          ],
+          [
+            "Altın ons (vadeli, $)",
+            "3.671,0",
+            "+%3,82"
+          ],
+          [
+            "Gram altın (hesaplanan, TL)",
+            "5.988",
+            "+%3,94"
+          ],
+          [
+            "Brent ($/varil)",
+            "92,68",
+            "-%2,04"
+          ],
+          [
+            "S&P 500 vadeli",
+            "7.318,50",
+            "+%1,71"
+          ],
+          [
+            "Nasdaq 100 vadeli",
+            "26.856,00",
+            "+%2,90"
+          ],
+          [
+            "Dow vadeli",
+            "50.652",
+            "+%0,84"
+          ],
+          [
+            "S&P 500 (25 Kas kapanış)",
+            "7.182,78",
+            "-%0,25"
+          ],
+          [
+            "Nasdaq Bileşik (25 Kas kapanış)",
+            "23.585,80",
+            "-%0,62"
+          ],
+          [
+            "Dow Jones (25 Kas kapanış)",
+            "50.182,95",
+            "+%0,33"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "Küresel piyasalar, yapay zekâ hisselerindeki satış baskısının hafiflemesiyle pozitif seyrediyor; ancak Fed'in aralıkta 25 baz puan faiz artırımı neredeyse kesin fiyatlanıyor, ABD 10 yıllık faizi %4,92'ye çıktı.",
+          "source_label": "Anadolu Ajansı — Küresel piyasalar teknoloji iyimserliğiyle pozitif",
+          "url": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-teknoloji-iyimserligiyle-pozitif-seyrediyor/4139908"
+        },
+        {
+          "text": "Kamu alacakları için gecikme zammı oranı aylık %3,2'ye, tecil faizi yıllık %29'a düşürüldü.",
+          "source_label": "Anadolu Ajansı — Gecikme zammı ve tecil faizi düşürüldü",
+          "url": "https://www.aa.com.tr/tr/ekonomi/kamu-alacaklari-icin-gecikme-zammi-orani-yuzde-3-2ye-tecil-faizi-yillik-yuzde-29a-dusuruldu/4139896"
+        },
+        {
+          "text": "ABD'de 3. çeyrek GSYH verisinin sert yukarı revize edilmesi üzerine Trump \"rekor hata\" için soruşturma istedi.",
+          "source_label": "CNBC — Trump demands probe into GDP revision",
+          "url": "https://www.cnbc.com/2026/11/26/trump-gdp-revision-investigation.html"
+        }
+      ]
+    },
+    {
+      "heading": "Kripto",
+      "note": "BTC, ETH, SOL, XRP ve USDT/TRY: CoinGecko, 27 Kasım ~08:29 (Asia/Famagusta), 24 saatlik değişim.",
+      "table": {
+        "columns": [
+          "Varlık",
+          "Değer",
+          "24s"
+        ],
+        "rows": [
+          [
+            "BTC",
+            "$61.651",
+            "+%1,87"
+          ],
+          [
+            "ETH",
+            "$1.734,34",
+            "+%2,83"
+          ],
+          [
+            "SOL",
+            "$72,96",
+            "+%3,15"
+          ],
+          [
+            "XRP",
+            "$0,9701",
+            "+%1,88"
+          ],
+          [
+            "USDT/TRY",
+            "₺50,73",
+            "+%0,20"
+          ]
+        ]
+      },
+      "items": [
+        {
+          "text": "Binance, Ekim'deki 6,3 milyar dolarlık hack sonrası başlayan çekim askısını dört hafta sonra tamamen kaldırdı; kullanıcıları oltalama dolandırıcılıklarına karşı uyardı.",
+          "source_label": "CoinDesk — Binance withdrawals fully restored",
+          "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack"
+        },
+        {
+          "text": "Ethereum'un Glamsterdam yükseltmesi, gecikmelerin ardından Aralık ortasında Hoodi test ağında denenecek.",
+          "source_label": "CoinDesk — Glamsterdam cleared for December test",
+          "url": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know"
+        },
+        {
+          "text": "Standard Chartered'ın kripto saklama şirketi Zodia Custody veri ihlali yaşadı; müşteri bilgileri açığa çıktı.",
+          "source_label": "CoinDesk — Zodia Custody data breach",
+          "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information"
+        }
+      ]
+    },
+    {
+      "heading": "Teknoloji",
+      "items": [
+        {
+          "text": "Kaynaklara göre Nvidia çip alıcılarından, GPU satın alabilmek için Çinli kiracılara kapasite vermeyeceklerini taahhüt etmeleri isteniyor.",
+          "source_label": "CNBC — Nvidia chip buyers told to rule out Chinese renters",
+          "url": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html"
+        },
+        {
+          "text": "Google Play'deki Android geliştiricileri, AB kuralları kapsamında yakında adreslerini herkese açık paylaşmak zorunda kalacak.",
+          "source_label": "The Verge — Android developers must share address publicly",
+          "url": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu"
+        },
+        {
+          "text": "Elon Musk'ın yörüngede \"bir milyon uyduyla\" veri merkezi kurma planı tepki çekiyor.",
+          "source_label": "BBC Türkçe — Musk'ın yörüngede veri merkezi planı",
+          "url": "https://www.bbc.com/turkce/articles/c69q8yv2n1rno"
+        }
+      ]
+    },
+    {
+      "heading": "Siber Güvenlik",
+      "items": [
+        {
+          "text": "Drupal core'da aktif olarak istismar edilen \"highly critical\" site ele geçirme açığı (CVE-2026-136716) duyuruldu. Pratik: Drupal siteleriniz varsa hemen güncelleyin.",
+          "source_label": "The Hacker News — Drupal: actively exploited critical flaw",
+          "url": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html"
+        },
+        {
+          "text": "1Password, arka uç sistemlerine sızıldığını ve bazı müşterilerin ad ve e-posta bilgilerine erişildiğini açıkladı; kasa içerikleri ve şifrelerin etkilenmediğini söylüyor. Pratik: 1Password temalı oltalama e-postalarına dikkat.",
+          "source_label": "The Hacker News — 1Password hacked via GitHub account breach",
+          "url": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html"
+        },
+        {
+          "text": "Ağ izleme aracı Cacti 1.2.31'de, misafir erişimiyle kimlik doğrulamasız 4 HTTP isteğinde uzaktan kod çalıştırmaya izin veren yamasız bir sıfırıncı gün açığı (PoC) yayımlandı. Pratik: Cacti'yi internete açmayın, misafir erişimini kapatın.",
+          "source_label": "The Hacker News — Unpatched Cacti zero-day enables RCE",
+          "url": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html"
+        },
+        {
+          "text": "İsviçre Ulusal Siber Güvenlik Merkezi, yapay zekâ ajanlarıyla yapılan saldırıların kritik altyapı operatörleri dahil kurumlara sızdığını doğruladı.",
+          "source_label": "The Hacker News — Switzerland confirms AI-assisted cyberattacks",
+          "url": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html"
+        }
+      ]
+    }
+  ]
+}
